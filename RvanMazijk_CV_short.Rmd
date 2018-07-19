@@ -1,0 +1,89 @@
+---
+title: "Ruan van Mazijk, *Curriculum vitae*"
+subtitle: "MSc candidate, Dept. of Biological Sciences, University of Cape Town"
+author: "<ruanvmazijk@gmail.com>, +27 72 516 7570, <https://rvanmazijk.github.io>"
+output:
+  pdf_document:
+    latex_engine: xelatex
+mainfont: Avenir
+linkcolor: blue
+urlcolor: blue
+---
+
+I am curiosity driven, interested in plant & animal phylogenetics & systematics, community ecology, plant ecophysiology, & the effects of climate change on the world's biota. I enjoy applying numerically & statistically grounded methods in these fields. My long-term goals are careers in research, academia, & teaching.
+
+# Education
+
+MSc candidate (Dept. of Biological Sciences, University of Cape Town) (2018--present), on _The effects of genome size on plant hydraulic ecophysiology, habitat & phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_. Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West.
+
+BSc Hons in Biological Sciences (UCT) (2017), on _The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_. Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom. Graduated with distinction.
+
+BSc (UCT) (2016). Majors: Ecology & Evolution, Applied Biology. Distinction in both majors & the degree as a whole.
+
+# Publications
+
+The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region (In preparation), with A/Prof M.D. Cramer & A/Prof G.A. Verboom.
+
+Isotopic analysis of Liesbeeck River stream-water during a high-intensity winter-rainfall event, in order to ascertain the water's source (In review), with L.K. Smythe, E. Weideman, & A/Prof A.G. West.
+
+# Professional affiliations
+
+South African Association of Botanists (SAAB) member (2017--present).
+
+Southern African Society for Systematic Biology (SASSB) (2018--present).
+
+Golden Key International Honour Society member (2015--present).
+
+# Funding & awards
+
+## Scholarships & bursaries
+
+South African Association of Botanists (SAAB) MSc Student Bursary (inaugural recipient) (R20,000 p.a.) (2018, 2019).
+
+Dorothy Cameron Scholarship (R20,000 p.a.) (2018).
+
+UCT Masters Research Scholarship (R25,000 p.a.) (2018).
+
+DST-NRF Innovation Honours Scholarship (R60,000 p.a.) (2017).
+
+South African Association of Botanists (SAAB) Honours Scholarship (R10,000 p.a.) (2017).
+
+UCT Science Faculty Scholarship (R15,000 p.a.) (2015, 2016).
+
+## Awards & honours
+
+Dick & Dorothy Borcherds Prize (R1,000 p.a.) (UCT) (2015).
+
+Dean's Merit List (UCT) (2014--2016).
+
+Class Medals (top of the class) $\times$ 5 (UCT) (2014--2016).
+
+# Leadership experience
+
+Departmental Representative for the Dept. of Biological Sciences (UCT) (2016).
+
+Class Representative for three Biological Sciences undergraduate courses at UCT (2015--2016).
+
+# Teaching
+
+Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ (2018-07-18--20). Organiser: A/Prof R. Altwegg (UCT).
+
+Tutor for _Study Design & Data Analysis for Scientists_ (STA2007F/S/H) (UCT) (2017--present).
+
+Assistant tutor for _Bionumeracy_ (STA1007S) R practicals (UCT) (2016--present).
+
+Hot-seat tutor for _Mathematics for Biology, Earth, & Environmental Sciences_ (MAM1004F/S) (UCT) (2015).
+
+# Skills
+
+Extended experience with Apple macOS, MS Windows, MS Office, R, RMarkdown, Git, GitHub.
+
+Fluent in both English & Afrikaans.
+
+Animal Ethics Course (South African Veterinary Council) (part of BSc Hons) (2017-04).
+
+# References
+
+A/Prof R. Altwegg, Dept. of Statistical Sciences, UCT. Head of Centre for Statistics in Ecology, the Environment & Conservation. +27 21 650 5750, <res.altwegg@uct.ac.za>.
+
+Prof T.A. Hedderson, Dept. of Biological Sciences, UCT. +27 21 650 4037, <terry.hedderson@uct.ac.za>.
