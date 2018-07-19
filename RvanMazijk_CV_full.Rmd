@@ -24,7 +24,7 @@ urlcolor: blue
 
 ![](logos/UCT.png){ width=50 } ![](logos/BIO.png){ width=50 }
 
-MSc candidate (Dept. of Biological Sciences, University of Cape Town) (2018--present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
+MSc candidate (UCT) (2018--present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
 
 Tutor for Study Design & Data Analysis for Scientists (STA2007F/S/H) (UCT) (2017--present).
 
