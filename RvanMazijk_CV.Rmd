@@ -24,11 +24,11 @@ urlcolor: blue
 
 ![](logos/UCT.png){ width=50 } ![](logos/BIO.png){ width=50 }
 
-**MSc candidate** (Dept. of Biological Sciences, University of Cape Town) (2018---present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
+**MSc candidate** (Dept. of Biological Sciences, University of Cape Town) (2018--present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
 
-**Tutor** for Study Design & Data Analysis for Scientists (STA2007F/S/H) (UCT) (2017---present).
+**Tutor** for Study Design & Data Analysis for Scientists (STA2007F/S/H) (UCT) (2017--present).
 
-**Assistant tutor** for Bionumeracy (STA1007S) R practicals (UCT) (2016---present).
+**Assistant tutor** for Bionumeracy (STA1007S) R practicals (UCT) (2016--present).
 
 # Education
 
@@ -38,13 +38,19 @@ urlcolor: blue
 
 **National Senior Certificate** (Fairmont High School, Durbanville, South Africa) (2013). Bachelor's Pass with honours and 6 distinctions.
 
+# Publications
+
+**The role of environmental heterogeneity in determining plant species richness** in the Greater Cape Floristic Region and the Southwest Australia Floristic Region (In preparation), with Associate Prof M.D. Cramer and Associate Prof G.A. Verboom.
+
+**Isotopic analysis of Liesbeeck River stream-water** during a high-intensity winter-rainfall event, in order to ascertain the water's source (In review), with L.K. Smythe, E. Weideman, and Associate Prof A.G. West.
+
 # Professional affiliations
 
-South African Association of Botanists (SAAB) member (2017---present).
+South African Association of Botanists (SAAB) member (2017--present).
 
-Southern African Society for Systematic Biology (SASSB) (2018---present).
+Southern African Society for Systematic Biology (SASSB) (2018--present).
 
-Golden Key International Honour Society member (2015---present).
+Golden Key International Honour Society member (2015--present).
 
 # Funding & awards
 
@@ -66,9 +72,9 @@ South African Association of Botanists (**SAAB**) **Honours Scholarship** (R10,0
 
 **Dick & Dorothy Borcherds Prize** (R1,000 p.a.) (UCT) (2015) for the highest standard in second year Biological Sciences.
 
-**Dean's Merit List** (UCT) (2014---2016).
+**Dean's Merit List** (UCT) (2014--2016).
 
-**Class Medals** (top of the class) for five Biological Sciences undergraduate courses at UCT (2014---2016). Namely:
+**Class Medals** (top of the class) for five Biological Sciences undergraduate courses at UCT (2014--2016). Namely:
 
 - Evolutionary Biology (BIO3016S) (2016)
 - Life on Land: Plants (BIO2012S) (2015)
@@ -76,51 +82,45 @@ South African Association of Botanists (**SAAB**) **Honours Scholarship** (R10,0
 - Life in the Sea (BIO2013F) (2015)
 - Biological Diversity (BIO1004S) (2014)
 
-# Publications
-
-**The role of environmental heterogeneity in determining plant species richness** in the Greater Cape Floristic Region and the Southwest Australia Floristic Region (In preparation), with Associate Prof M.D. Cramer and Associate Prof G.A. Verboom.
-
-**Isotopic analysis of Liesbeeck River stream-water** during a high-intensity winter-rainfall event, in order to ascertain the water's source (In review), with L.K. Smythe, E. Weideman, and Associate Prof A.G. West.
-
 # Other academic activities
 
 ## Prior tutorial & leadership experience
 
-**Open Day volunteer** for the Dept. of Biological Sciences (UCT) (22 Apr. 2017, 21 Apr. 2018)
+**Open Day volunteer** for the Dept. of Biological Sciences (UCT) (2017-04-22, 2018-04-21)
 
 **Departmental Representative** for the Dept. of Biological Sciences (UCT) (2016).
 
-**Class Representative** for three Biological Sciences undergraduate courses at UCT (2015---2016). Namely:
+**Class Representative** for three Biological Sciences undergraduate courses at UCT (2015--2016). Namely:
 
 - Evolutionary Biology (BIO3016S) (2016)
 - Ecology (BIO3015F) (2016)
 - Life on Land: Plants (BIO2012S) (2015)
 
-Selected to give **student feedback** for curriculum-restructuring within the Dept. of Biological Sciences (UCT) (Aug. 2016). Related to roles as Class/Dept. Representative---see above. Selected by: Associate Prof A.G. West (UCT).
+Selected to give **student feedback** for curriculum-restructuring within the Dept. of Biological Sciences (UCT) (2016-08). Related to roles as Class/Dept. Representative---see above. Selected by: Associate Prof A.G. West (UCT).
 
-Selected to give **student feedback** for *Biology: How Life Works* (2nd edition) (May 2016) (Morris et al., 2016. W.H. Freeman & Co., Macmillan Education). Selected by: Dr R. Kelly-Laubscher (UCT).
+Selected to give **student feedback** for *Biology: How Life Works* (2nd edition) (2016-05) (Morris et al., 2016. W.H. Freeman & Co., Macmillan Education). Selected by: Dr R. Kelly-Laubscher (UCT).
 
 **Hot-seat tutor** for Mathematics for Biology, Earth, and Environmental Sciences (MAM1004F/S) (UCT) (2015).
 
 ## Research assistance
 
-**Assessing the current available data for the soils of the Greater Cape Floristic Region** (June 2016---present), with L. Wootton. Part of "Biodiversity and Environmental Change in the Cape Floristic Region" Supervisor: Associate Prof M.D. Cramer (UCT).
+**Assessing the current available data for the soils of the Greater Cape Floristic Region** (2016-06--present), with L. Wootton. Part of "Biodiversity and Environmental Change in the Cape Floristic Region" Supervisor: Associate Prof M.D. Cramer (UCT).
 
-**Monitoring Mimetes spp. & Leucospermumn spp. populations** on the Cape Peninsula (Jan.---Feb. 2017), with L. Wootton. Supervisor: Dr J. Slingsby (SAEON/SANBI).
+**Monitoring Mimetes spp. & Leucospermumn spp. populations** on the Cape Peninsula (2017-01--02), with L. Wootton. Supervisor: Dr J. Slingsby (SAEON/SANBI).
 
-**Legume symbiotic rhizobia culturing and field sampling** (Dec. 2015). Supervisors: M. Dludlu (UCT) and Associate Prof A.M. Muasya (UCT).
+**Legume symbiotic rhizobia culturing and field sampling** (2015-12). Supervisors: M. Dludlu (UCT) and Associate Prof A.M. Muasya (UCT).
 
 ## Workshop & conference attendance
 
-Assistant tutor for short course **SEEC-ACCESS Introduction to statistical modelling and data analysis** (18---20 Jul. 2018). Organiser: Associate Prof R. Altwegg (UCT).
+Assistant tutor for short course **_SEEC-ACCESS Introduction to statistical modelling and data analysis_** (2018-07-18--20). Organiser: Associate Prof R. Altwegg (UCT).
 
-Presenter at **Pint of Science -- Cape Town** (16 May 2018). I presented hypotheses concerning the role of genome size in plant water use and ecology. [pintofsciencesa.wixsite.com](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16)
+Presenter at **_Pint of Science Cape Town_** (2018-05-16). I presented hypotheses concerning the role of genome size in plant water use and ecology. [pintofsciencesa.wixsite.com](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16)
 
-Attendee at **satRday Cape Town** (17 Mar. 2018). [capetown2018.satrdays.org](https://capetown2018.satrdays.org)
+Attendee at **_satRday Cape Town_** (2018-03-17). [capetown2018.satrdays.org](https://capetown2018.satrdays.org)
 
-Presenter at workshop **Biodiversity and Environmental Change in the Cape Floristic Region** (24 Jan. 2017). Organiser: Associate Prof L. Gillson (UCT). I presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region", with L. Wootton.
+Presenter at workshop **_Biodiversity and Environmental Change in the Cape Floristic Region_** (2017-01-24). Organiser: Associate Prof L. Gillson (UCT). I presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region", with L. Wootton.
 
-Attendee at workshop **Spatial Point Process Modelling for Ecological Survey Data**, with "inlabru" (11---13 Jan. 2017). Instructors: David Borchers, Janine Illian (CREEM, St Andrews University), and Fabian Bachl (University of Edinburgh).
+Attendee at workshop **_Spatial Point Process Modelling for Ecological Survey Data_**_, with "inlabru"_ (2017-01-11--13). Instructors: David Borchers, Janine Illian (CREEM, St Andrews University), and Fabian Bachl (University of Edinburgh).
 
 # Skills
 
@@ -133,21 +133,21 @@ Attendee at workshop **Spatial Point Process Modelling for Ecological Survey Dat
 
 **Fluent** in both English and Afrikaans.
 
-**Animal Ethics** Course certified by South African Veterinary Council (part of BSc Hons general coursework) (Apr. 2017).
+**Animal Ethics** Course certified by South African Veterinary Council (part of BSc Hons general coursework) (2017-04).
 
 # Miscellaneous
 
-Botanical Society of South Africa (BotSoc) member (2017---present).
+Botanical Society of South Africa (BotSoc) member (2017--present).
 
-UCT Birding Club member (2016---2017).
+UCT Birding Club member (2016--2017).
 
-UCT Wine & Culture Society member (2016---present).
+UCT Wine & Culture Society member (2016--present).
 
 *Cape Wine Ambassador* qualification (2016). Conferred by: Clive Torr.
 
 UCT Biological Society member (2015).
 
-Two Oceans Aquarium *Young Biologist* Volunteer (2013---2014).
+Two Oceans Aquarium *Young Biologist* Volunteer (2013--2014).
 
 # References
 
