@@ -147,6 +147,14 @@ Two Oceans Aquarium _Young Biologist_ Volunteer (2013--2014).
 
 # References
 
-Associate Prof R. Altwegg, Dept. of Statistical Sciences, UCT. Head of Centre for Statistics in Ecology, the Environment and Conservation. +27 21 650 5750, <res.altwegg@uct.ac.za>.
+Associate Prof R. Altwegg
 
-Prof T.A. Hedderson, Dept. of Biological Sciences, UCT. +27 21 650 4037, <terry.hedderson@uct.ac.za>.
+- Dept. of Statistical Sciences, UCT
+- Head of Centre for Statistics in Ecology, the Environment and Conservation (SEEC)
+- <res.altwegg@uct.ac.za>
+- +27 21 650 5750
+
+Prof T.A. Hedderson
+
+- Dept. of Biological Sciences, UCT
+- <terry.hedderson@uct.ac.za>
