@@ -26,9 +26,9 @@ urlcolor: blue
 
 MSc candidate (UCT) (2018--present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
 
-Tutor for Study Design & Data Analysis for Scientists (STA2007F/S/H) (UCT) (2017--present).
+Tutor for _Study Design & Data Analysis for Scientists_ (STA2007F/S/H) (UCT) (2017--present). Convenor: A/Prof R. Altwegg (UCT).
 
-Assistant tutor for Bionumeracy (STA1007S) R practicals (UCT) (2016--present).
+Assistant tutor for _Bionumeracy_ (STA1007S) R practicals (UCT) (2016--present). Convenor: A/Prof R. Altwegg (UCT).
 
 # Education
 
@@ -76,11 +76,11 @@ Dean's Merit List (UCT) (2014--2016).
 
 Class Medals (top of the class) for five Biological Sciences undergraduate courses at UCT (2014--2016). Namely:
 
-- Evolutionary Biology (BIO3016S) (2016)
-- Life on Land: Plants (BIO2012S) (2015)
-- Life on Land: Animals (BIO2011S) (2015)
-- Life in the Sea (BIO2013F) (2015)
-- Biological Diversity (BIO1004S) (2014)
+- _Evolutionary Biology_ (BIO3016S) (2016)
+- _Life on Land: Plants_ (BIO2012S) (2015)
+- _Life on Land: Animals_ (BIO2011S) (2015)
+- _Life in the Sea_ (BIO2013F) (2015)
+- _Biological Diversity_ (BIO1004S) (2014)
 
 # Other academic activities
 
