@@ -1,7 +1,7 @@
 ---
 title: "Ruan van Mazijk, *Curriculum vitae*"
 subtitle: "MSc candidate, Dept. of Biological Sciences, University of Cape Town"
-date: "`r format(Sys.time(), '%F')`"
+author: "<ruanvmazijk@gmail.com>, +27 72 516 7570, <https://rvanmazijk.github.io>"
 output:
   pdf_document:
     latex_engine: xelatex
@@ -10,9 +10,7 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-> I am curiosity driven, interested in plant and animal phylogenetics and systematics, community ecology, plant ecophysiology, and the effects of climate change on the world's biota. I enjoy applying numerically and statistically grounded methods in these fields. My long-term goals are careers in research, academia, and teaching.
-
-<ruanvmazijk@gmail.com>, +27 72 516 7570, <https://rvanmazijk.github.io>
+I am curiosity driven, interested in plant and animal phylogenetics and systematics, community ecology, plant ecophysiology, and the effects of climate change on the world's biota. I enjoy applying numerically and statistically grounded methods in these fields. My long-term goals are careers in research, academia, and teaching.
 
 ![](logos/ORCID.png){ width=16 } <https://orcid.org/0000-0003-2659-6909>
 
@@ -20,23 +18,17 @@ urlcolor: blue
 
 ![](logos/LinkedIn.png){ width=16 } [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127), ![](logos/ResearchGate-green.jpg){ width=16 } [ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk) and ![](logos/Mendeley-red.png){ width=16 } [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
 
-# Current positions
-
-![](logos/UCT.png){ width=50 } ![](logos/BIO.png){ width=50 }
-
-MSc candidate (UCT) (2018--present). Dissertation title: The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae). Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
-
-Tutor for _Study Design & Data Analysis for Scientists_ (STA2007F/S/H) (UCT) (2017--present). Convenor: A/Prof R. Altwegg (UCT).
-
-Assistant tutor for _Bionumeracy_ (STA1007S) R practicals (UCT) (2016--present). Convenor: A/Prof R. Altwegg (UCT).
-
 # Education
 
-BSc Hons in Biological Sciences (UCT) (2017). Project title: The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region and the Southwest Australia Floristic Region. Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom. Graduated with distinction.
+![](logos/UCT.png){ width=16 } ![](logos/BIO.png){ width=16 }
 
-BSc (UCT) (2016). Majors: Ecology & Evolution, Applied Biology. Graduated with distinction in both majors and the degree as a whole.
+MSc candidate (UCT) (2018--present), on _The effects of genome size on plant hydraulic ecophysiology, habitat, and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_. Principle supervisor: Associate Prof A.M. Muasya. Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West.
 
-National Senior Certificate (Fairmont High School, Durbanville, South Africa) (2013). Bachelor's Pass with honours and 6 distinctions.
+BSc Hons in Biological Sciences (UCT) (2017), on _The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_. Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom. Graduated with distinction.
+
+BSc (UCT) (2016). Majors: Ecology & Evolution, Applied Biology. Distinction in both majors & the degree as a whole.
+
+National Senior Certificate (Fairmont High School, Durbanville, South Africa) (2013). Bachelor's Pass with honours and six distinctions.
 
 # Publications
 
@@ -82,13 +74,7 @@ Class Medals (top of the class) for five Biological Sciences undergraduate cours
 - _Life in the Sea_ (BIO2013F) (2015)
 - _Biological Diversity_ (BIO1004S) (2014)
 
-# Other academic activities
-
-## Prior tutorial & leadership experience
-
-Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ (2018-07-18--20). Organiser: A/Prof R. Altwegg (UCT).
-
-Open Day volunteer for the Dept. of Biological Sciences (UCT) (2017-04-22, 2018-04-21)
+# Leadership experience
 
 Departmental Representative for the Dept. of Biological Sciences (UCT) (2016).
 
@@ -98,13 +84,17 @@ Class Representative for three Biological Sciences undergraduate courses (UCT) (
 - _Ecology_ (BIO3015F) (2016)
 - _Life on Land: Plants_ (BIO2012S) (2015)
 
-Selected to give student feedback for curriculum-restructuring within the Dept. of Biological Sciences (UCT) (2016-08). Related to roles as Class/Dept. Representative---see above. Selected by: Associate Prof A.G. West (UCT).
+# Teaching
 
-Selected to give student feedback for _Biology: How Life Works_ (2nd edition) (2016-05) (Morris et al., 2016. W.H. Freeman & Co., Macmillan Education). Selected by: Dr R. Kelly-Laubscher (UCT).
+Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ (2018-07-18--20). Organiser: A/Prof R. Altwegg (UCT).
+
+Tutor for _Study Design & Data Analysis for Scientists_ (STA2007F/S/H) (UCT) (2017--present). Convenor: A/Prof R. Altwegg (UCT).
+
+Assistant tutor for _Bionumeracy_ (STA1007S) R practicals (UCT) (2016--present). Convenor: A/Prof R. Altwegg (UCT).
 
 Hot-seat tutor for _Mathematics for Biology, Earth, and Environmental Sciences_ (MAM1004F/S) (UCT) (2015). Convenor: T. van Heerden. Hot-seat organiser: Dr R. Moolman.
 
-## Research assistance
+# Research assistance
 
 Assessing the current available data for the soils of the Greater Cape Floristic Region (2016-06--present), with L.M. Wootton. Part of "Biodiversity and Environmental Change in the Cape Floristic Region" Supervisor: Associate Prof M.D. Cramer (UCT).
 
@@ -112,9 +102,7 @@ Monitoring Mimetes spp. & Leucospermumn spp. populations on the Cape Peninsula (
 
 Legume symbiotic rhizobia culturing and field sampling (2015-12). Supervisors: Dr M. Dludlu (UCT) and Associate Prof A.M. Muasya (UCT).
 
-## Workshop & conference attendance
-
-Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling and data analysis_ (2018-07-18--20). Organiser: Associate Prof R. Altwegg (UCT).
+# Workshop & conference attendance
 
 Presenter at _Pint of Science Cape Town_ (2018-05-16). I presented hypotheses concerning the role of genome size in plant water use and ecology. [pintofsciencesa.wixsite.com](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16)
 
@@ -139,11 +127,17 @@ Animal Ethics Course certified by South African Veterinary Council (part of BSc 
 
 # Miscellaneous
 
+Open Day volunteer for the Dept. of Biological Sciences (UCT) (2017-04-22, 2018-04-21).
+
 Botanical Society of South Africa (BotSoc) member (2017--present).
+
+UCT Wine & Culture Society member (2016--present).
 
 UCT Birding Club member (2016--2017).
 
-UCT Wine & Culture Society member (2016--present).
+Selected to give student feedback for curriculum-restructuring within the Dept. of Biological Sciences (UCT) (2016-08). Related to roles as Class/Dept. Representative---see above. Selected by: Associate Prof A.G. West (UCT).
+
+Selected to give student feedback for _Biology: How Life Works_ (2nd edition) (2016-05) (Morris et al., 2016. W.H. Freeman & Co., Macmillan Education). Selected by: Dr R. Kelly-Laubscher (UCT).
 
 _Cape Wine Ambassador_ qualification (2016). Conferred by: Clive Torr.
 
