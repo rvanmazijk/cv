@@ -29,8 +29,8 @@ header-includes:
 
 ## Professional affiliations
 
-- South African Association of Botanists (SAAB) member (2017--present).
 - Southern African Society for Systematic Biology (SASSB) (2018--present).
+- South African Association of Botanists (SAAB) member (2017--present).
 - Golden Key International Honour Society member (2015--present).
 
 ## Funding & awards
