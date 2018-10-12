@@ -1,0 +1,8 @@
+RENDER = Rscript -e "library(rmarkdown); render('$<')"
+all: RvanMazijk_CV_1page.pdf RvanMazijk_CV_short.pdf RvanMazijk_CV_full.pdf
+RvanMazijk_CV_1page.pdf: RvanMazijk_CV_1page.Rmd
+	$(RENDER)
+RvanMazijk_CV_short.pdf: RvanMazijk_CV_short.Rmd
+	$(RENDER)
+RvanMazijk_CV_full.pdf: RvanMazijk_CV_full.Rmd
+	$(RENDER)
