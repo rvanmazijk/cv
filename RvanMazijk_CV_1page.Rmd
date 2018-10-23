@@ -47,7 +47,7 @@ header-includes:
 - DST-NRF Innovation Honours Scholarship (R60,000 ) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
 - UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
-- Dick & Dorothy Borcherds Prize for outstanding 2^nd^ year biology (R1,000) \hfill 2015
+- Dick & Dorothy Borcherds Prize for the highest standard in 2^nd^ year biology (R1,000) \hfill 2015
 
 ## Teaching experience
 
