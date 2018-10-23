@@ -1,16 +1,23 @@
 ---
-title: "Ruan van Mazijk, *Curriculum vitae*"
-subtitle: "MSc candidate, Dept. of Biological Sciences, University of Cape Town"
-author: "<ruanvmazijk@gmail.com>, +27 72 516 7570, [rvanmazijk.github.io](https://rvanmazijk.github.io)"
 output:
   pdf_document:
     latex_engine: xelatex
 mainfont: Avenir
+geometry: margin=1.5cm
 linkcolor: blue
 urlcolor: blue
+header-includes:
+  # Set font size here, as `fontsize:` doesn't work w/ custom `mainfont:`
+  - \usepackage[fontsize=10pt]{scrextend}
 ---
 
-MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa. I have broad interests in plant and animal phylogenetics systematics, community ecology, plant ecophysiology, climate change biology, statistical ecology, and computational and model-based methods. Striving for a career in research, academia and teaching.
+# Ruan van Mazijk, _Curriculum vitae_ \hfill <ruanvmazijk@gmail.com>, +27 72 516 7570<!--, [rvanmazijk.github.io](https://rvanmazijk.github.io)-->
+
+\hrule
+
+MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa \hfill ![](logos/UCT.png){ width=24 } ![](logos/BIO.png){ width=24 }
+
+I have broad interests in plant and animal phylogenetics systematics, community ecology, plant ecophysiology, climate change biology, statistical ecology, and computational and model-based methods. Striving for a career in research, academia and teaching.
 
 @rvanmazijk on ![](logos/Twitter.png){ width=12 } [Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png){ width=12 } [GitHub](https://github.com/rvanmazijk)
 
@@ -18,222 +25,163 @@ MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http:
 
 ![](logos/LinkedIn.png){ width=12 } [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127) ![](logos/ResearchGate-green.jpg){ width=12 } [ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk) ![](logos/Mendeley-red.png){ width=12 } [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
 
-# Education
-
-![](logos/UCT.png){ width=24 } ![](logos/BIO.png){ width=24 }
-
-MSc candidate in Biological Sciences _Cape Town_ \hfill 2018--present
-  
-- Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology_ \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
-- Principle supervisor: Associate Prof A.M. Muasya
-- Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West
-
-BSc Hons in Biological Sciences _Cape Town_ \hfill 2017
-\par Graduated with distinction
-- Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
-- Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom
-
-BSc in Ecology & Evolution, Applied Biology _Cape Town_ \hfill 2016
-\par Distinction in both majors and the degree as a whole
-
-National Senior Certificate, Fairmont High School, Durbanville, South Africa \hfill 2013
-\par Bachelor's Pass with honours and six distinctions
-
-# Publications
-
-Cramer, M.D., van Mazijk, R., Wootton, L.M. and Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
-
-Van Mazijk, R., Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
-
-Van Mazijk, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):1--6. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
-
-# Professional affiliations
-
-Southern African Society for Systematic Biology (SASSB) student member (2018--present).
-
-South African Association of Botanists (SAAB) student member (2017--present).
-
-Golden Key International Honour Society member (2015--present).
-
-# Funding & awards
-
-## Travel grants
-
-UCT Conference Travel Grant to attend SAAB-AMA-SASSB-IVXV (conditional grant) (R3,819) \hfill 2018
-
-## Scholarships & bursaries
-
-South African Association of Botanists (SAAB) MSc Student Bursary (inaugural recipient) (R20,000 p.a.) \hfill 2018, 2019
-
-Dorothy Cameron Scholarship (R20,000) \hfill 2018
-
-UCT Masters Research Scholarship (R25,000) \hfill 2018
-
-DST-NRF Innovation Honours Scholarship (R60,000) \hfill 2018
-
-South African Association of Botanists (SAAB) Honours Scholarship (R10,000) \hfill 2017
-
-UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
-
-## Awards & honours
-
-UCT Once-Off Top Up Award (R5,520) \hfill 2018
-
-Dean's Merit List \hfill 2014--2016
-
-Dick & Dorothy Borcherds Prize for the highest standard in 2^nd^ year biology (R1,000) \hfill 2015
-
-Top of the class for:
-
-- 3^rd^ year evolutionary biology \hfill 2016
-- 2^nd^ year botany \hfill 2015
-- 2^nd^ year zoology \hfill 2015
-- 2^nd^ year marine biology \hfill 2015
-- 1^st^ year biological diversity \hfill 2014
-
-# Leadership experience
-
-Dept. of Biological Sciences Postgraduate Committee ad-hoc member \hfill October--December 2018
-
-Departmental Representative for the Dept. of Biological Sciences \hfill 2016.
-
-Class Representative for:
-
-- 3^rd^ year evolutionary biology \hfill 2016
-- 3^rd^ year ecology \hfill 2016
-- 2^nd^ year botany \hfill 2015
-
-# Teaching
-
-Teaching assistant for angiosperm diversity practicals \hfill October 2018
-\par Lecturer: Associate Prof G.A. Verboom
-
-Tutor for undergraduate study design and data analysis for scientists \hfill 2017--present
-\par Convenor: Associate Prof R. Altwegg
-
-Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July
-\par Organiser: Associate Prof R. Altwegg
-
-Assistant tutor undergraduate R practicals \hfill 2016--2018
-\par Convenor: Associate Prof R. Altwegg
-
-Hot-seat tutor for mathematics for biology, earth and environmental sciences undergraduates \hfill 2015
-\par Convenor: T. van Heerden
-\par Hot-seat organiser: Dr R. Moolman
-
-# Research assistance
-
-Field assistant for sampling _Schoenus_ spp. (Cyperaceae: Schoeneae) specimens for genome-size analyses and taxonomic study \hfill 2018--present
-\par with Dr T.L. Elliott
-\par Supervisor: Associate Prof A.M. Muasya
-
-Data processing assistant for assessing the current available data for the soils of the Greater Cape Floristic Region \hfill June 2016--present
-\par with L.M. Wootton
-\par Part of "Biodiversity and Environmental Change in the Cape Floristic Region"
-\par Supervisor: Associate Prof M.D. Cramer
-
-Field assitant for monitoring _Mimetes_ spp. & _Leucospermumn_ spp. (Proteaceae) populations on the Cape Peninsula \hfill January--February 2017
-\par with L.M. Wootton
-\par Supervisor: Dr J.A. Slingsby (SAEON Fynbos Node, SEEC)
-
-Laboratory, field and data processing assistant for legume symbiotic rhizobia culturing and field sampling \hfill December 2015
-\par Supervisors: Dr M. Dludlu and Associate Prof A.M. Muasya
-
-# Workshop & conference attendance
-
-Presenter at _Pint of Science Cape Town_ \hfill 16 May 2018
-\par I presented hypotheses concerning the role of genome size in plant water use and ecology
-\par [pintofsciencesa.wixsite.com](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16)
-
-Attendee at _satRday Cape Town_ \hfill 17 March 2018
-\par [capetown2018.satrdays.org](https://capetown2018.satrdays.org)
-
-Presenter at workshop _Biodiversity and Environmental Change in the Cape Floristic Region_ \hfill 24 January 2017
-\par I presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region"
-\par with L.M. Wootton
-\par Organiser: Associate Prof L. Gillson
-
-Attendee at workshop _Spatial Point Process Modelling for Ecological Survey Data with "inlabru"_ \hfill 11--13 January 2017
-\par Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University) and Dr F. Bachl (University of Edinburgh)
-
-# Skills
-
-Extended experience with:
-
-- Apple macOS
-- MS Windows, MS Office
-- R, RStudio, RMarkdown, "tidyverse" packages
-- Statistical modelling, GIS (in R)
-- Git, GitHub
-
-Fluent in both English and Afrikaans.
-
-Animal Ethics Course certified by South African Veterinary Council \hfill April 2017
-\par (part of BSc Hons general coursework)
-
-# Miscellaneous
-
-Open Day volunteer for the Dept. of Biological Sciences \hfill 21 April 2018, 22 April 2017
-
-Botanical Society of South Africa (BotSoc) member \hfill 2017--present
-
-UCT Wine & Culture Society member \hfill 2016--present
-
-UCT Birding Club member \hfill 2016--2017
-
-Selected to give student feedback for curriculum-restructuring within the Dept. of Biological Sciences \hfill August 2016
-\par Related to roles as Class/Dept. Representative---see above
-\par Selected by: Associate Prof A.G. West
-
-Selected to give student feedback for _Biology: How Life Works_ (2nd edition) \hfill May 2016
-\par Morris et al., 2016. W.H. Freeman & Co., Macmillan Education
-\pra Selected by: Dr R. Kelly-Laubscher
-
-_Cape Wine Ambassador_ qualification \hfill 2016
-\par Conferred by: Clive Torr
-
-UCT Biological Society member \hfill 2015
-
-Two Oceans Aquarium _Young Biologist_ Volunteer \hfill 2013--2014
-
-# References
-
-Associate Prof G.A. Verboom
-
-- Dept. of Biological Sciences, UCT
-- Bolus Herbarium, UCT
-- <tony.verboom@uct.ac.za>
-- +27 21 650 3398
-
-Associate Prof M.D. Cramer
-
-- Dept. of Biological Sciences, UCT
-- <michael.cramer@uct.ac.za>
-- +27 21 650 2444
-
-Associate Prof A.M. Muasya
-
-- Dept. of Biological Sciences, UCT
-- Bolus Herbarium, UCT
-- <muthama.muasya@uct.ac.za>
-- +27 21 650 3725
-
-Associate Prof A.G. West
-
-- Dept. of Biological Sciences, UCT
-- <adam.west@uct.ac.za>
-- +27 21 650 3628 
-
-Associate Prof R. Altwegg
-
-- Dept. of Statistical Sciences, UCT
-- Head of Centre for Statistics in Ecology, the Environment and Conservation (SEEC), UCT
-- <res.altwegg@uct.ac.za>
-- +27 21 650 5750
-
-Prof T.A. Hedderson
-
-- Dept. of Biological Sciences, UCT
-- Bolus Herbarium, UCT
-- <terry.hedderson@uct.ac.za>
-- +27 21 650 4037
+\hfill \hrule
+
+## Education
+
+- MSc candidate in Biological Sciences _Cape Town_ \hfill 2018--present
+  - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology_ \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
+  - Principle supervisor: Associate Prof A.M. Muasya
+  - Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West
+- BSc Hons in Biological Sciences _Cape Town_ \hfill 2017
+  - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
+  - Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom
+  - Graduated with distinction
+- BSc in Ecology & Evolution, Applied Biology _Cape Town_ \hfill 2016
+  - Distinction in both majors and the degree as a whole
+- National Senior Certificate, Fairmont High School, Durbanville, South Africa \hfill 2013
+  - Bachelor's Pass with honours and six distinctions
+
+## Publications
+
+- Cramer, M.D., van Mazijk, R., Wootton, L.M. and Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
+- Van Mazijk, R., Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
+- Van Mazijk, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):1--6. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
+
+## Professional affiliations
+
+- Southern African Society for Systematic Biology (SASSB) student member (2018--present).
+- South African Association of Botanists (SAAB) student member (2017--present).
+- Golden Key International Honour Society member (2015--present).
+
+## Funding & awards
+
+### Travel grants
+
+- UCT Conference Travel Grant to attend SAAB-AMA-SASSB-IVXV (conditional grant) (R3,819) \hfill 2018
+
+### Scholarships & bursaries
+
+- SAAB MSc Student Bursary (inaugural recipient) (R20,000 p.a.) \hfill 2018, 2019
+- UCT Dorothy Cameron Scholarship (R20,000) \hfill 2018
+- UCT Masters Research Scholarship (R25,000) \hfill 2018
+- Department of Science and Technology and National Research Foundation (DST-NRF) Innovation Honours Scholarship (R60,000) \hfill 2018
+- SAAB Honours Scholarship (R10,000) \hfill 2017
+- UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
+
+### Awards & honours
+
+- UCT Once-Off Top Up Award (R5,520) \hfill 2018
+- UCT Dean's Merit List \hfill 2014--2016
+- UCT Dick & Dorothy Borcherds Prize for the highest standard in 2^nd^ year biology (R1,000) \hfill 2015
+- Top of the class at UCT for:
+  - 3^rd^ year evolutionary biology \hfill 2016
+  - 2^nd^ year botany \hfill 2015
+  - 2^nd^ year zoology \hfill 2015
+  - 2^nd^ year marine biology \hfill 2015
+  - 1^st^ year biological diversity \hfill 2014
+
+## Leadership experience
+
+- UCT Dept. of Biological Sciences Postgraduate Committee ad-hoc member \hfill October--December 2018
+- UCT Departmental Representative for the Dept. of Biological Sciences \hfill 2016.
+- Class Representative at UCT for:
+  - 3^rd^ year evolutionary biology \hfill 2016
+  - 3^rd^ year ecology \hfill 2016
+  - 2^nd^ year botany \hfill 2015
+
+## Teaching
+
+- Teaching assistant for angiosperm diversity practicals \hfill October 2018
+  - Lecturer: Associate Prof G.A. Verboom (UCT)
+- Tutor for undergraduate study design and data analysis for scientists \hfill 2017--present
+  - Convenor: Associate Prof R. Altwegg (UCT)
+- Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July 2018
+  - Organiser: Associate Prof R. Altwegg (UCT)
+- Assistant tutor undergraduate R practicals \hfill 2016--2018
+  - Convenor: Associate Prof R. Altwegg (UCT)
+- Hot-seat tutor for mathematics for biology, earth and environmental sciences undergraduates \hfill 2015
+  - Convenor: T. van Heerden (UCT)
+  - Hot-seat organiser: Dr R. Moolman (UCT)
+
+## Research assistance
+
+- Field assistant for sampling _Schoenus_ spp. (Cyperaceae: Schoeneae) \hfill 2018--present
+  - Specimens were used for genome-size analyses and taxonomic study
+  - Supervisor: Dr T.L. Elliott (Université De Montréal) and Associate Prof A.M. Muasya (UCT)
+- Data processing assistant for assessing the current available data for the soils of the Greater Cape Floristic Region \hfill June 2016--present
+  - with L.M. Wootton
+  - Part of "Biodiversity and Environmental Change in the Cape Floristic Region" research programme at the Dept. of Biological Sciences
+  - Supervisor: Associate Prof M.D. Cramer (UCT)
+- Field assitant for monitoring _Mimetes_ spp. & _Leucospermumn_ spp. (Proteaceae) \hfill January--February 2017
+  - Populations were on the Cape Peninsula
+  - with L.M. Wootton
+  - Supervisor: Dr J.A. Slingsby (SAEON Fynbos Node, SEEC)
+- Laboratory, field and data processing assistant for legume symbiotic rhizobia culturing and field sampling \hfill December 2015
+  - Supervisors: Dr M. Dludlu (University of Swaziland) and Associate Prof A.M. Muasya (UCT)
+
+## Workshop & conference attendance
+
+- Presenter at [_Pint of Science Cape Town_](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16) \hfill 16 May 2018
+  - I presented hypotheses concerning the role of genome size in plant water use and ecology
+- Attendee at [_satRday Cape Town_](https://capetown2018.satrdays.org) \hfill 17 March 2018
+- Presenter at workshop _Biodiversity and Environmental Change in the Cape Floristic Region_ \hfill 24 January 2017
+  - with L.M. Wootton
+  - We presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region"
+  - Organiser: Associate Prof L. Gillson (UCT)
+- Attendee at workshop _Spatial Point Process Modelling for Ecological Survey Data with "inlabru"_ \hfill 11--13 January 2017
+  - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University) and Dr F. Bachl (University of Edinburgh)
+
+## Skills
+
+- Extended experience with:
+  - Apple macOS
+  - MS Windows, MS Office
+  - R, RStudio, RMarkdown, "tidyverse" packages
+  - Statistical modelling, GIS (in R)
+  - Git, GitHub
+- Fluent in:
+  - English
+  - Afrikaans
+- Animal Ethics Course certified by South African Veterinary Council \hfill April 2017
+  - Competed as part of BSc Hons general coursework
+
+## Miscellaneous
+
+- Open Day volunteer for the Dept. of Biological Sciences \hfill 21 April 2018, 22 April 2017
+- Botanical Society of South Africa (BotSoc) member \hfill 2017--present
+- UCT Wine & Culture Society member \hfill 2016--present
+- UCT Birding Club member \hfill 2016--2017
+- Selected to give student feedback for curriculum-restructuring within the Dept. of Biological Sciences \hfill August 2016
+  - Related to roles as Class/Dept. Representative---see above
+  - Selected by: Associate Prof A.G. West (UCT)
+- Selected to give student feedback for _Biology: How Life Works_ (2nd edition) \hfill May 2016
+  - Morris et al., 2016. W.H. Freeman & Co., Macmillan Education
+  - Selected by: Dr R. Kelly-Laubscher (University College Cork)
+- _Cape Wine Ambassador_ qualification \hfill 2016
+  - Conferred by: Clive Torr
+- UCT Biological Society member \hfill 2015
+- Two Oceans Aquarium _Young Biologist_ Volunteer \hfill 2013--2014
+
+\hfill \hrule
+
+## References
+
+- Associate Prof G.A. Verboom \hfill <tony.verboom@uct.ac.za>, +27 21 650 3398
+  - Dept. of Biological Sciences, UCT
+  - Bolus Herbarium, UCT
+- Associate Prof M.D. Cramer \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
+  - Dept. of Biological Sciences, UCT
+- Associate Prof A.M. Muasya \hfill <muthama.muasya@uct.ac.za>, +27 21 650 3725
+  - Dept. of Biological Sciences, UCT
+  - Bolus Herbarium, UCT
+- Associate Prof A.G. West \hfill <adam.west@uct.ac.za>, +27 21 650 3628 
+  - Dept. of Biological Sciences, UCT
+- Associate Prof R. Altwegg \hfill <res.altwegg@uct.ac.za>, +27 21 650 5750
+  - Dept. of Statistical Sciences, UCT
+  - Head of Centre for Statistics in Ecology, the Environment and Conservation (SEEC), UCT
+- Prof T.A. Hedderson \hfill <terry.hedderson@uct.ac.za>, +27 21 650 4037
+  - Dept. of Biological Sciences, UCT
+  - Bolus Herbarium, UCT
+
+\hfill \hrule
