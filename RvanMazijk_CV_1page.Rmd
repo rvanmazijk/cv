@@ -3,58 +3,61 @@ output:
   pdf_document:
     latex_engine: xelatex
 mainfont: Avenir
-linkcolor: blue
-urlcolor: blue
 geometry: margin=1cm
 header-includes:
   # Set font size here, as `fontsize:` doesn't work w/ custom `mainfont:`
   - \usepackage[fontsize=10pt]{scrextend}
 ---
 
-# Ruan van Mazijk, _Curriculum vitae_
+\pagenumbering{gobble}
 
-<ruanvmazijk@gmail.com>, +27 72 516 7570, [rvanmazijk.github.io](https://rvanmazijk.github.io)
+# Ruan van Mazijk, _Curriculum vitae_ \hfill <ruanvmazijk@gmail.com>, +27 72 516 7570<!--, [rvanmazijk.github.io](https://rvanmazijk.github.io)-->
 
 ## Education
 
-- MSc candidate (UCT) (2018--present), on _The effects of genome size on plant hydraulic ecophysiology, habitat & phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_. Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West.
-- BSc Hons in Biological Sciences (UCT) (2017), on _The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_. Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom. Graduated with distinction.
-- BSc (UCT) (2016). Majors: Ecology & Evolution, Applied Biology. Distinction in both majors & the degree as a whole.
+- MSc candidate in Biological Sciences _Cape Town_ \hfill 2018--present
+  - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat & phenology_ \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
+  - Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West
+- BSc Hons in Biological Sciences _Cape Town_ \hfill 2017
+  \par Graduated with distinction
+  - Dissertation title: _Relating vascular plant species richness & environmental heterogeneity across spatial scales_ \par _in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_
+  - Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom
+- BSc in Ecology & Evolution, Applied Biology _Cape Town_ \hfill 2016
+  \par Distinction in both majors & the degree as a whole
 
 ## Publications
 
-- Cramer, M.D., van Mazijk, R., Wootton, L.M., Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
-- Van Mazijk, R., Cramer, M.D., Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region.
-- Van Mazijk, R., Smythe, L.K., Weideman, E.A., West, A.G. (In press). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4).
+- Cramer, M.D., van Mazijk, R., Wootton, L.M. & Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
+- Van Mazijk, R., Cramer, M.D. & Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
+- Van Mazijk, R., Smythe, L.K., Weideman, E.A. & West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):1--6. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
 ## Professional affiliations
 
-- Southern African Society for Systematic Biology (SASSB) (2018--present).
-- South African Association of Botanists (SAAB) member (2017--present).
-- Golden Key International Honour Society member (2015--present).
+- Southern African Society for Systematic Biology (SASSB) student member \hfill 2018--present
+- South African Association of Botanists (SAAB) student member \hfill 2017--present
+- Golden Key International Honour Society member \hfill 2015--present
 
 ## Funding & awards
 
-- South African Association of Botanists (SAAB) MSc Student Bursary (inaugural recipient) (R20,000 p.a.) (2018, 2019).
-- Dorothy Cameron Scholarship (R20,000 p.a.) (2018).
-- UCT Masters Research Scholarship (R25,000 p.a.) (2018).
-- DST-NRF Innovation Honours Scholarship (R60,000 p.a.) (2017).
-- South African Association of Botanists (SAAB) Honours Scholarship (R10,000 p.a.) (2017).
-- UCT Science Faculty Scholarship (R15,000 p.a.) (2015, 2016).
-- Dick & Dorothy Borcherds Prize (R1,000 p.a.) (UCT) (2015).
-- Dean's Merit List (UCT) (2014--2016).
-- Class Medals (top of the class) for five Biological Sciences undergraduate courses (UCT) (2014--2016).
+- SAAB MSc Student Bursary (inaugural recipient) (R20,000) \hfill 2018, 2019
+- UCT Once-Off Top Up Award (R5,520) \hfill 2018
+- UCT Conference Travel Grant to attend SAAB-AMA-SASSB-IVXV (conditional grant) (R3,819) \hfill 2018
+- Dorothy Cameron Scholarship (R20,000) \hfill 2018
+- UCT Masters Research Scholarship (R25,000) \hfill 2018
+- DST-NRF Innovation Honours Scholarship (R60,000 ) \hfill 2017
+- SAAB Honours Scholarship (R10,000) \hfill 2017
+- UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
+- Dick & Dorothy Borcherds Prize for outstanding 2^nd^ year biology (R1,000) \hfill 2015
 
-## Teaching & leadership experience
+## Teaching experience
 
-- Tutor for _Study Design & Data Analysis for Scientists_ (STA2007F/S/H) (UCT) (2017--present). Convenor: A/Prof R. Altwegg (UCT).
-- Assistant tutor for _Bionumeracy_ (STA1007S) R practicals (UCT) (2016--present). Convenor: A/Prof R. Altwegg (UCT).
-- Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ (18--20 July 2018). Organiser: A/Prof R. Altwegg (UCT).
-- Departmental Representative for the Dept. of Biological Sciences (UCT) (2016).
-- Class Representative for three Biological Sciences undergraduate courses (UCT) (2015--2016).
-- Hot-seat tutor for _Mathematics for Biology, Earth, & Environmental Sciences_ (MAM1004F/S) (UCT) (2015). Convenor: T. van Heerden. Hot-seat organiser: Dr R. Moolman.
+- Teaching assistant for undergraduate angiosperm diversity practicals \hfill 2018--present
+- Tutor for undergraduate study design & data analysis for scientists \hfill 2017--present
+- Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July 2018
+- Assistant tutor for undergraduate R practicals \hfill 2016--present
+- Hot-seat tutor for mathematics for biology, earth & environmental sciences undergraduates \hfill 2015
 
 ## References
 
-- Associate Prof R. Altwegg, Dept. of Statistical Sciences, UCT. Head of Centre for Statistics in Ecology, the Environment and Conservation (SEEC). <res.altwegg@uct.ac.za>, +27 21 650 5750.
-- Prof T.A. Hedderson, Dept. of Biological Sciences, UCT. <terry.hedderson@uct.ac.za>, +27 21 650 4037.
+- A/Prof G.A. Verboom, Dept. of Biological Sciences & Bolus Herbarium, UCT \hfill <tony.verboom@uct.ac.za>, +27 21 650 3398
+- A/Prof M.D. Cramer, Dept. of Biological Sciences, UCT \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
