@@ -1,4 +1,6 @@
 ---
+title: Ruan van Mazijk, _Curriculum vitae_
+subtitle: <ruanvmazijk@gmail.com>, +27 72 516 7570<!--, [rvanmazijk.github.io](https://rvanmazijk.github.io)-->
 output:
   pdf_document:
     latex_engine: xelatex
@@ -9,9 +11,9 @@ urlcolor: blue
 header-includes:
   # Set font size here, as `fontsize:` doesn't work w/ custom `mainfont:`
   - \usepackage[fontsize=10pt]{scrextend}
+  - \usepackage{wrapfig}
+  - \usepackage{subcaption}
 ---
-
-# Ruan van Mazijk, _Curriculum vitae_ \hfill <ruanvmazijk@gmail.com>, +27 72 516 7570<!--, [rvanmazijk.github.io](https://rvanmazijk.github.io)-->
 
 \hrule
 
@@ -46,7 +48,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 - Cramer, M.D., van Mazijk, R., Wootton, L.M. and Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
 - Van Mazijk, R., Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
-- Van Mazijk, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):1--6. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
+- Van Mazijk, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
 ## Professional affiliations
 

@@ -9,27 +9,30 @@ header-includes:
   - \usepackage[fontsize=10pt]{scrextend}
 ---
 
-\pagenumbering{gobble}
+\pagenumbering{gobble} <!--turns off page numbering-->
 
 # Ruan van Mazijk, _Curriculum vitae_ \hfill <ruanvmazijk@gmail.com>, +27 72 516 7570<!--, [rvanmazijk.github.io](https://rvanmazijk.github.io)-->
 
 ## Education
 
-- MSc candidate in Biological Sciences _Cape Town_ \hfill 2018--present
-  - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat & phenology_ \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
-  - Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West
-- BSc Hons in Biological Sciences _Cape Town_ \hfill 2017
+- **MSc candidate in Biological Sciences** _Cape Town_ \hfill 2018--present
+  \par Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat & phenology_
+  \par \ \ \ \ _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
+  \par Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West
+- **BSc Hons in Biological Sciences** _Cape Town_ \hfill 2017
   \par Graduated with distinction
-  - Dissertation title: _Relating vascular plant species richness & environmental heterogeneity across spatial scales_ \par _in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_
-  - Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom
-- BSc in Ecology & Evolution, Applied Biology _Cape Town_ \hfill 2016
+  \par Dissertation title: _Relating vascular plant species richness & environmental heterogeneity across spatial scales_
+  \par \ \ \ \ _in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_
+  \par Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom
+- **BSc in Ecology & Evolution, Applied Biology** _Cape Town_ \hfill 2016
   \par Distinction in both majors & the degree as a whole
 
 ## Publications
 
-- Cramer, M.D., van Mazijk, R., Wootton, L.M. & Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
-- Van Mazijk, R., Cramer, M.D. & Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
-- Van Mazijk, R., Smythe, L.K., Weideman, E.A. & West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):1--6. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
+- Elliott, T.L., Laidler, G., Muasya, A.M., Muthaphuli, N. & **van Mazijk, R.** (In review.). Foregrounding sedges: bringing the neglected Cape Schoenoid sedges to the forefront of genomic research. Submitted to _Veld & Flora_.
+- Cramer, M.D., **van Mazijk, R.**, Wootton, L.M. & Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
+- **Van Mazijk, R.**, Cramer, M.D. & Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
+- **Van Mazijk, R.**, Smythe, L.K., Weideman, E.A. & West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
 ## Professional affiliations
 
