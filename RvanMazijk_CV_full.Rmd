@@ -32,11 +32,13 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 ## Education
 
 - **MSc candidate in Biological Sciences** _Cape Town_ \hfill 2018--present
-  - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology_ \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
+  - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology_ 
+    \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
   - Principle supervisor: Associate Prof A.M. Muasya
   - Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West
 - **BSc Hons in Biological Sciences** _Cape Town_ \hfill 2017
-  - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
+  - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ 
+    \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
   - Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom
   - Graduated with distinction
 - **BSc in Ecology & Evolution, Applied Biology** _Cape Town_ \hfill 2016
@@ -61,14 +63,16 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ### Travel grants
 
-- UCT Conference Travel Grant to attend SAAB-AMA-SASSB-IVXV (conditional grant) (R3,819) \hfill 2018
+- UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, African Mycological Assocation (AMA)
+  \par and SASSB Joint Congress, 2019 (R3,819) \hfill 2018
 
 ### Scholarships & bursaries
 
 - SAAB MSc Student Bursary (inaugural recipient) (R20,000 p.a.) \hfill 2018, 2019
 - UCT Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Masters Research Scholarship (R25,000) \hfill 2018
-- Department of Science and Technology and National Research Foundation (DST-NRF) Innovation Honours Scholarship (R60,000) \hfill 2018
+- Department of Science and Technology (DST) and National Research Foundation (NRF)
+  \par Innovation Honours Scholarship (R60,000) \hfill 2018
 - SAAB Honours Scholarship (R10,000) \hfill 2017
 - UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
 
@@ -112,19 +116,26 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - Field assistant for sampling _Schoenus_ spp. (Cyperaceae: Schoeneae) \hfill 2018--present
   - Specimens were used for genome-size analyses and taxonomic study
   - Supervisor: Dr T.L. Elliott (Université De Montréal) and Associate Prof A.M. Muasya (UCT)
-- Data processing assistant for assessing the current available data for the soils of the Greater Cape Floristic Region \hfill June 2016--present
+- Data processing assistant for assessing the current available data for the soils of the GCFR \hfill June 2016--present
   - with L.M. Wootton
-  - Part of "Biodiversity and Environmental Change in the Cape Floristic Region" research programme at the Dept. of Biological Sciences
+  - Part of the _Biodiversity and Environmental Change in the Cape Floristic Region_ 
+    \par research programme at the Dept. of Biological Sciences
   - Supervisor: Associate Prof M.D. Cramer (UCT)
 - Field assitant for monitoring _Mimetes_ spp. & _Leucospermumn_ spp. (Proteaceae) \hfill January--February 2017
   - Populations were on the Cape Peninsula
   - with L.M. Wootton
   - Supervisor: Dr J.A. Slingsby (SAEON Fynbos Node, SEEC)
-- Laboratory, field and data processing assistant for legume symbiotic rhizobia culturing and field sampling \hfill December 2015
+- Laboratory and field assistant for legume symbiotic rhizobia culturing \hfill December 2015
+  - Also involved plant collections and literature-derived rhizobial collection data processing
   - Supervisors: Dr M. Dludlu (University of Swaziland) and Associate Prof A.M. Muasya (UCT)
 
 ## Workshop & conference attendance
 
+- Presenter at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill January 2019
+  - I am to present on my BSc Hons dissertation work and publication in prep. 
+    \par on environmental heterogeneity and plant species richness patterns
+  - I am also to present on my MSc work
+    \par on the physiological correlates of plant genome size
 - Presenter at [_Pint of Science Cape Town_](http://pintofsciencesa.wixsite.com/pintofsciencesa/uct-planet-earth-16) \hfill 16 May 2018
   - I presented hypotheses concerning the role of genome size in plant water use and ecology
 - Attendee at [_satRday Cape Town_](https://capetown2018.satrdays.org) \hfill 17 March 2018
@@ -133,7 +144,8 @@ I have broad interests in plant and animal phylogenetics systematics, community 
   - We presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region"
   - Organiser: Associate Prof L. Gillson (UCT)
 - Attendee at workshop _Spatial Point Process Modelling for Ecological Survey Data with "inlabru"_ \hfill 11--13 January 2017
-  - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University) and Dr F. Bachl (University of Edinburgh)
+  - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University)
+    \par and Dr F. Bachl (University of Edinburgh)
 
 ## Skills
 
