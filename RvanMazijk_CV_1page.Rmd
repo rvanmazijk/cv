@@ -42,6 +42,7 @@ header-includes:
 
 ## Funding & awards
 
+- DST-NRF Innovation Masters Scholarship (R90,000) \hfill 2019
 - SAAB MSc Student Bursary (inaugural recipient) (R20,000) \hfill 2018, 2019
 - UCT Once-Off Top Up Award (R5,520) \hfill 2018
 - UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, AMA & SASSB Joint Congress, 2019 (R3,819) \hfill 2018
