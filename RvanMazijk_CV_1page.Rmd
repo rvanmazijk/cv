@@ -45,7 +45,7 @@ header-includes:
 - SAAB MSc Student Bursary (inaugural recipient) (R20,000) \hfill 2018, 2019
 - UCT Once-Off Top Up Award (R5,520) \hfill 2018
 - UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, AMA & SASSB Joint Congress, 2019 (R3,819) \hfill 2018
-- Dorothy Cameron Scholarship (R20,000) \hfill 2018
+- UCT Dept. of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Masters Research Scholarship (R25,000) \hfill 2018
 - DST-NRF Innovation Honours Scholarship (R60,000 ) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
