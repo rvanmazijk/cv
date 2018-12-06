@@ -38,7 +38,6 @@ header-includes:
 
 - Southern African Society for Systematic Biology (SASSB) student member \hfill 2018--present
 - South African Association of Botanists (SAAB) student member \hfill 2017--present
-- Golden Key International Honour Society member \hfill 2015--present
 
 ## Funding & awards
 
