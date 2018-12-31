@@ -46,7 +46,7 @@ header-includes:
 - UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, AMA & SASSB Joint Congress, 2019 (R3,819) \hfill 2018
 - UCT Dept. of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Masters Research Scholarship (R30,000) \hfill 2018
-- DST-NRF Innovation Honours Scholarship (R60,000 ) \hfill 2017
+- DST-NRF Innovation Honours Scholarship (R60,000) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
 - UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
 - Dick & Dorothy Borcherds Prize for the highest standard in 2^nd^ year biology (R1,000) \hfill 2015
