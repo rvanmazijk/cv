@@ -39,7 +39,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - **BSc Hons in Biological Sciences** _Cape Town_ \hfill 2017
   - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ 
     \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
-  - Supervisors: Associate Prof M.D. Cramer and Associate Prof G.A. Verboom
+  - Supervisors: Prof M.D. Cramer and Associate Prof G.A. Verboom
   - Graduated with distinction
 - **BSc in Ecology & Evolution, Applied Biology** _Cape Town_ \hfill 2016
   - Distinction in both majors and the degree as a whole
@@ -123,7 +123,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
   - with L.M. Wootton
   - Part of the _Biodiversity and Environmental Change in the Cape Floristic Region_ 
     \par research programme at the Dept. of Biological Sciences
-  - Supervisor: Associate Prof M.D. Cramer (UCT)
+  - Supervisor: Prof M.D. Cramer (UCT)
 - Field assitant for monitoring _Mimetes_ spp. & _Leucospermumn_ spp. (Proteaceae) \hfill January--February 2017
   - Populations were on the Cape Peninsula
   - with L.M. Wootton
@@ -191,7 +191,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - Associate Prof G.A. Verboom \hfill <tony.verboom@uct.ac.za>, +27 21 650 3398
   - Dept. of Biological Sciences, UCT
   - Bolus Herbarium, UCT
-- Associate Prof M.D. Cramer \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
+- Prof M.D. Cramer \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
   - Dept. of Biological Sciences, UCT
 - Associate Prof A.M. Muasya \hfill <muthama.muasya@uct.ac.za>, +27 21 650 3725
   - Dept. of Biological Sciences, UCT

@@ -20,10 +20,9 @@ header-includes:
   \par \ \ \ \ _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
   \par Principle supervisor: A/Prof A.M. Muasya. Co-supervisors: A/Prof G.A. Verboom & A/Prof A.G. West
 - **BSc Hons in Biological Sciences** _Cape Town_ \hfill 2017
-  \par Graduated with distinction
-  \par Dissertation title: _Relating vascular plant species richness & environmental heterogeneity across spatial scales_
-  \par \ \ \ \ _in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_
-  \par Supervisors: A/Prof M.D. Cramer & A/Prof G.A. Verboom
+  \par Graduated with distinction. Dissertation title: _Relating vascular plant species richness & environmental heterogeneity_
+  \par \ \ \ \ _across spatial scales in the Greater Cape Floristic Region & the Southwest Australia Floristic Region_
+  \par Supervisors: Prof M.D. Cramer & A/Prof G.A. Verboom
 - **BSc in Ecology & Evolution, Applied Biology** _Cape Town_ \hfill 2016
   \par Distinction in both majors & the degree as a whole
 
@@ -63,4 +62,4 @@ header-includes:
 ## References
 
 - A/Prof G.A. Verboom, Dept. of Biological Sciences & Bolus Herbarium, UCT \hfill <tony.verboom@uct.ac.za>, +27 21 650 3398
-- A/Prof M.D. Cramer, Dept. of Biological Sciences, UCT \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
+- Prof M.D. Cramer, Dept. of Biological Sciences, UCT \hfill <michael.cramer@uct.ac.za>, +27 21 650 2444
