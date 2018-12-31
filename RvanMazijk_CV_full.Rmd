@@ -48,8 +48,13 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ## Publications
 
-- Elliott, T.L., Laidler, G., Muasya, A.M., Muthaphuli, N. and **van Mazijk, R.** (In review.). Foregrounding sedges: bringing the neglected Cape Schoenoid sedges to the forefront of genomic research. Submitted to _Veld & Flora_.
-- Cramer, M.D., **van Mazijk**, R., Wootton, L.M. and Verboom, G.A. (In prep.). Edaphic diversity in a global biodiversity hotspot.
+### Popular articles
+
+- Elliott, T.L., Laidler, G., Muasya, A.M., Muthaphuli, N. and **van Mazijk, R.** (In review). Foregrounding sedges: bringing the neglected Cape Schoenoid sedges to the forefront of genomic research. _Veld & Flora_.
+
+### Peer-reviewed articles
+
+- Cramer, M.D., Wootton, L.M., **van Mazijk, R.** and Verboom, G.A. (In review). Improved spatial soil data confirms dependence of vegetation distribution on edaphic properties in the Cape biodiversity hotspot. _Diversity & Distributions_.
 - **Van Mazijk, R.**, Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
 - **Van Mazijk**, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
