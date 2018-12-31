@@ -166,10 +166,11 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 - Extended experience with:
   - Apple macOS
-  - MS Windows, MS Office
+  - Microsoft Windows
+  - Microsoft Office
   - R, RStudio, RMarkdown, "tidyverse" packages
-  - Statistical modelling, GIS (in R)
   - Git, GitHub
+  - Statistical modelling, GIS (in R)
 - Fluent in:
   - English
   - Afrikaans
