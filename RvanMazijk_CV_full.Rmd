@@ -149,11 +149,13 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ## Workshop & conference attendance
 
-- Presenter at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill January 2019
-  - Abstract accepted to present on my BSc Hons dissertation work and publication in prep. 
-    \par on environmental heterogeneity and plant species richness patterns
-  - Abstract accepted to present on my MSc work
-    \par on the physiological correlates of plant genome size
+- Presenter at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill 9--11 January 2019
+  - First oral presentation:
+  \par _Environmental turnover predicts plant species richness & turnover_,
+  \par on my BSc Hons dissertation work and publication in prep. \hfill 9 January 2019 
+  - Second oral presentation:
+  \par _Larger genome size constrains water-use efficiency and phenology in Cape Schoenoid sedges_,
+  \par on my MSc work \hfill 11 January 2019 
 - Presenter at _UCT BioDay_ \hfill 30 November 2018
   - I presented my preliminary results for my MSc
     \par on the role of genome size in shaping Cape Schoenoid sedge physiology
