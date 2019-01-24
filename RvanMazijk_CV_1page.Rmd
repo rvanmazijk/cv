@@ -35,7 +35,7 @@ header-includes:
 
 ## Professional affiliations
 
-- Council member, Student Representative Portfolio, Southern African Society for Systematic Biology (SASSB) \hfill 2019--present
+- Council member, Student Representative Portfolio, Southern African Society for Systematic Biology (SASSB) \hfill 2019--present<!--term ends end-2021-->
 - Student member, South African Association of Botanists (SAAB) \hfill 2017--present
 
 ## Funding & awards
