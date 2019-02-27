@@ -33,31 +33,39 @@ header-includes:
 - **Van Mazijk, R.**, Cramer, M.D. & Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. _Journal of Biogeography_.
 - **Van Mazijk, R.**, Smythe, L.K., Weideman, E.A. & West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
+<!--
+- Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae).
+-->
+
 ## Professional affiliations
 
-- Council member, Student Representative Portfolio, Southern African Society for Systematic Biology (SASSB) \hfill 2019--present<!--term ends end-2021-->
+- Council member, Student Representative, Southern African Society for Systematic Biology (SASSB) \hfill 2019--present<!--term ends end-2021-->
 - Student member, South African Association of Botanists (SAAB) \hfill 2017--present
 
 ## Funding & awards
 
 - SASSB Best MSc Presentation (3-way tie), at the 45^th^ Annual SAAB, AMA & SASSB Joint Congress \hfill January 2019
-- DST-NRF Innovation Masters Scholarship (R90,000) \hfill 2019
+- DST-NRF Freestanding Innovation Masters Scholarship (R90,000) \hfill 2019
 - SAAB MSc Student Bursary (inaugural recipient) (R20,000) \hfill 2018, 2019
 - UCT Once-Off Top Up Award (R5,520) \hfill 2018
 - UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, AMA & SASSB Joint Congress, 2019 (R3,819) \hfill 2018
 - UCT Dept. of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Masters Research Scholarship (R30,000) \hfill 2018
-- DST-NRF Innovation Honours Scholarship (R60,000) \hfill 2017
+- DST-NRF Freestanding Innovation Honours Scholarship (R60,000) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
 - UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
 
 ## Teaching experience
 
-- Teaching assistant for undergraduate angiosperm diversity practicals \hfill 2018--present
-- Tutor for undergraduate study design & data analysis for scientists \hfill 2017--present
+- Teaching and field assistant for second year ecology and evolution \hfill February 2019--present
+- Teaching assistant for second year angiosperm diversity practicals \hfill 2018--present
+- Tutor for second year study design & data analysis for scientists \hfill 2017--present
 - Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July 2018
-- Assistant tutor for undergraduate R practicals \hfill 2016--present
-- Hot-seat tutor for mathematics for biology, earth & environmental sciences undergraduates \hfill 2015
+- Assistant tutor for first year R practicals \hfill 2016--present
+
+<!--
+- Hot-seat tutor for first year mathematics for biology, earth & environmental sciences undergraduates \hfill 2015
+-->
 
 ## References
 

@@ -55,14 +55,17 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 ### Peer-reviewed articles
 
 - Cramer, M.D., Wootton, L.M., **van Mazijk, R.** and Verboom, G.A. (In review). Improved spatial soil data confirms dependence of vegetation distribution on edaphic properties in the Cape biodiversity hotspot. _Diversity & Distributions_.
-- Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae).
 - **Van Mazijk, R.**, Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
 - **Van Mazijk**, R., Smythe, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
+
+<!--
+- Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae).
+-->
 
 ## Professional affiliations
 
 - Southern African Society for Systematic Biology (SASSB) council member \hfill 2019--present<!--term ends end-2021-->
-  \par Student Representative Portfolio
+  \par Student Representative
 - SASSB student member \hfill 2018--present
 - South African Association of Botanists (SAAB) student member \hfill 2017--present
 - Golden Key International Honour Society member \hfill 2015--present
@@ -77,7 +80,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 ### Scholarships & bursaries
 
 - Department of Science and Technology (DST) and National Research Foundation (NRF)
-  \par Innovation Masters Scholarship (R90,000) \hfill 2019
+  \par Freestanding Innovation Masters Scholarship (R90,000) \hfill 2019
 - UCT Masters Research Scholarship (R30,000) \hfill 2019
   \par Awarded but not reimbursed due to award of DST-NRF Innovation Masters Scholarship 
 - UCT Bursary Top Ups (R6,000 total) \hfill 2019
@@ -86,7 +89,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - UCT Dept. of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Once-Off Top Up Award (R5,520) \hfill 2018
 - UCT Masters Research Scholarship (R30,000) \hfill 2018
-- DST-NRF Innovation Honours Scholarship (R60,000) \hfill 2017
+- DST-NRF Freestanding Innovation Honours Scholarship (R60,000) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
 - UCT Council Honours Merit Scholarship (R20,000) \hfill 2017
   \par Awarded but not reimbursed due to award of DST-NRF Innovation Honours Scholarship 
@@ -116,15 +119,17 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ## Teaching
 
-- Teaching assistant for angiosperm diversity practicals \hfill October 2018
+- Teaching and field assistant for second year ecology and evolution \hfill February 2019--present
+  - Convenor: Associate Prof G.A. Verboom (UCT)
+- Teaching assistant for second year angiosperm diversity practicals \hfill October 2018
   - Lecturer: Associate Prof G.A. Verboom (UCT)
-- Tutor for undergraduate study design and data analysis for scientists \hfill 2017--present
+- Tutor for second year study design and data analysis for scientists \hfill 2017--present
   - Convenor: Associate Prof R. Altwegg (UCT)
 - Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July 2018
   - Organiser: Associate Prof R. Altwegg (UCT)
-- Assistant tutor undergraduate R practicals \hfill 2016--2018
+- Assistant tutor first year R practicals \hfill 2016--2018
   - Convenor: Associate Prof R. Altwegg (UCT)
-- Hot-seat tutor for mathematics for biology, earth and environmental sciences undergraduates \hfill 2015
+- Hot-seat tutor for first year mathematics for biology, earth and environmental sciences undergraduates \hfill 2015
   - Convenor: T. van Heerden (UCT)
   - Hot-seat organiser: Dr R. Moolman (UCT)
 
@@ -183,7 +188,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
   - Apple macOS
   - Microsoft Windows
   - Microsoft Office
-  - R, RStudio, RMarkdown, "tidyverse" packages
+  - R, RStudio, RMarkdown and related packages, "tidyverse" packages
   - Git, GitHub
   - Statistical modelling, GIS (in R)
 - Fluent in:
