@@ -153,6 +153,8 @@ I have broad interests in plant and animal phylogenetics systematics, community 
   - Also involved plant collections and literature-derived rhizobial collection data processing
   - Supervisors: Dr M. Dludlu (University of Swaziland) and Associate Prof A.M. Muasya (UCT)
 
+<!-- I contributed to the West Lab/ACCESS/SEEC data management policy document -->
+
 ## Workshop & conference attendance
 
 - Presenter at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill 9--11 January 2019
