@@ -12,7 +12,9 @@ urlcolor: blue
 
 \hrule
 
-MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa \hfill ![](logos/UCT.png){ width=24 } ![](logos/BIO.png){ width=24 }
+MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa
+
+![](logos/UCT.png){ width=48 } ![](logos/BIO.png){ width=48 } ![](logos/SASSB.png){ width=48 }
 
 I have broad interests in plant and animal phylogenetics systematics, community ecology, plant ecophysiology, climate change biology, statistical ecology, and computational and model-based methods. Striving for a career in research, academia and teaching.
 
