@@ -1,12 +1,6 @@
 ---
-output: 
-  pdf_document:
-    latex_engine: xelatex
 mainfont: Avenir
 geometry: margin=1cm
-header-includes:
-  # Set font size here, as `fontsize:` doesn't work w/ custom `mainfont:`
-  - \usepackage[fontsize=10pt]{scrextend}
 ---
 
 \pagenumbering{gobble} <!--turns off page numbering-->
