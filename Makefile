@@ -12,11 +12,11 @@ all: 1page full
 
 full: RvanMazijk_CV_full.pdf RvanMazijk_CV_full.html
 
-RvanMazijk_CV_1page.pdf: RvanMazijk_CV_1page.Rmd
+RvanMazijk_CV_1page.pdf: RvanMazijk_CV_1page.Rmd _output.yml style.sty
 	$(RENDER_PDF)
 
-RvanMazijk_CV_full.pdf: RvanMazijk_CV_full.Rmd
+RvanMazijk_CV_full.pdf: RvanMazijk_CV_full.Rmd _output.yml style.sty
 	$(RENDER_PDF)
 
-RvanMazijk_CV_full.html: RvanMazijk_CV_full.Rmd
+RvanMazijk_CV_full.html: RvanMazijk_CV_full.Rmd _output.yml style.sty
 	$(RENDER_HTML)
