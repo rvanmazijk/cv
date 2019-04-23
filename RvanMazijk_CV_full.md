@@ -1,16 +1,14 @@
 Ruan van Mazijk, *Curriculum vitae*
 ================
 
-MSc candidate in Biological Sciences at the [Dept. of Biological
+MSc candidate in Biological Sciences at the [Department of Biological
 Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape
 Town](http://www.uct.ac.za/), South Africa
 
-![](logos/UCT.png) ![](logos/BIO.png) ![](logos/SASSB.png)
-
 I have broad interests in plant and animal phylogenetics systematics,
-community ecology, plant ecophysiology, climate change biology,
-statistical ecology, and computational and model-based methods. Striving
-for a career in research, academia and teaching.
+macroecology, community ecology, plant ecophysiology, climate change
+biology, statistical ecology and computational and model-based methods.
+Striving for a career in research, academia and teaching.
 
 @rvanmazijk on ![](logos/Twitter.png)
 [Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png)
@@ -25,20 +23,22 @@ for a career in research, academia and teaching.
 ![](logos/Mendeley-red.png)
 [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
 
+![](logos/UCT.png) ![](logos/BIO.png) ![](logos/SASSB.png)
+
 ## Education
 
   - **MSc candidate in Biological Sciences** *Cape Town* 2018–present
       - Dissertation title: *Genome size effects on plant hydraulic
-        ecophysiology, habitat and phenology*
-        *in Cape Schoenoid sedges (Cyperaceae: Schoeneae)*
+        ecophysiology, habitat and phenology in Cape Schoenoid sedges
+        (Cyperaceae: Schoeneae)*
       - Principle supervisor: Associate Prof A.M. Muasya
       - Co-supervisors: Associate Prof G.A. Verboom and Associate Prof
         A.G. West
   - **BSc Hons in Biological Sciences** *Cape Town* 2017
       - Dissertation title: *Relating vascular plant species richness
-        and environmental heterogeneity across spatial scales*
-        *in the Greater Cape Floristic Region and the Southwest
-        Australia Floristic Region*
+        and environmental heterogeneity across spatial scales in the
+        Greater Cape Floristic Region and the Southwest Australia
+        Floristic Region*
       - Supervisors: Prof M.D. Cramer and Associate Prof G.A. Verboom
       - Graduated with distinction
   - **BSc in Ecology & Evolution, Applied Biology** *Cape Town* 2016
@@ -54,9 +54,12 @@ for a career in research, academia and teaching.
   - Elliott, T.L., Laidler, G., Muasya, A.M., Muthaphuli, N. and **van
     Mazijk, R.** (In review). Foregrounding sedges: bringing the
     neglected Cape Schoenoid sedges to the forefront of genomic
-    research. *Veld & Flora*.
+    research. *Veld &
+Flora*.
 
 ### Peer-reviewed articles
+
+<!-- - Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae). -->
 
   - Cramer, M.D., Wootton, L.M., **van Mazijk, R.** and Verboom, G.A.
     (In review). Improved spatial soil data confirms dependence of
@@ -71,15 +74,11 @@ for a career in research, academia and teaching.
     *Water SA*, 44(4):674–679. DOI:
     [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
-<!--
-- Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae).
--->
-
 ## Professional affiliations
 
   - Southern African Society for Systematic Biology (SASSB) council
-    member 2019–present<!--term ends end-2021-->
-    Student Representative
+    member Student Representative 2019–present
+    <!-- term ends end-2021 -->
   - SASSB student member 2018–present
   - South African Association of Botanists (SAAB) student member
     2017–present
@@ -90,39 +89,34 @@ for a career in research, academia and teaching.
 ### Travel grants
 
   - UCT Conference Travel Grant to attend the 45<sup>th</sup> Annual
-    SAAB, African Mycological Assocation (AMA)
-    and SASSB Joint Congress, 2019 (R3,819) 2018
+    SAAB, African Mycological Assocation (AMA) and SASSB Joint Congress,
+    2019 (R3,819) 2018
 
 ### Scholarships & bursaries
 
   - Department of Science and Technology (DST) and National Research
-    Foundation (NRF)
-    Innovation Masters Scholarship (R90,000) 2019
-  - UCT Masters Research Scholarship (R30,000) 2019
-    Awarded but not reimbursed due to award of DST-NRF Innovation
-    Masters Scholarship
+    Foundation (NRF) Innovation Masters Scholarship (R90,000) 2019
+  - UCT Masters Research Scholarship\[1\] (R30,000) 2019
   - UCT Bursary Top Ups (R6,000 total) 2019
-    from Associate Prof A.M. Muasya, Associate Prof A.G. West and
-    Associate Prof G.A. Verboom
+      - From Associate Prof A.M. Muasya, Associate Prof A.G. West and
+        Associate Prof G.A. Verboom
   - SAAB MSc Student Bursary (inaugural recipient) (R20,000 p.a.) 2018,
     2019
-  - UCT Dept. of Biological Sciences Dorothy Cameron Scholarship
+  - UCT Department of Biological Sciences Dorothy Cameron Scholarship
     (R20,000) 2018
   - UCT Once-Off Top Up Award (R5,520) 2018
   - UCT Masters Research Scholarship (R30,000) 2018
   - DST-NRF Innovation Honours Scholarship (R60,000) 2017
   - SAAB Honours Scholarship (R10,000) 2017
-  - UCT Council Honours Merit Scholarship (R20,000) 2017
-    Awarded but not reimbursed due to award of DST-NRF Innovation
-    Honours Scholarship
+  - UCT Council Honours Merit Scholarship\[2\] (R20,000) 2017
   - UCT Science Faculty Scholarship (R15,000 p.a.) 2015, 2016
 
 ### Awards & honours
 
   - SASSB Best MSc Presentation, at the 45<sup>th</sup> Annual SAAB, AMA
     and SASSB Joint Congress January 2019
-    (three-way tie, shared with with Zaynab Shaik (UCT/SANBI) and Devon
-    Main (UJ))
+      - Three-way tie, shared with with Zaynab Shaik (UCT/SANBI) and
+        Devon Main (UJ))
   - UCT Dean’s Merit List 2014–2016
   - UCT Dick & Dorothy Borcherds Prize for the highest standard in
     2<sup>nd</sup> year biology (R1,000) 2015
@@ -136,8 +130,7 @@ for a career in research, academia and teaching.
 ## Leadership experience
 
   - Southern African Society for Systematic Biology (SASSB) council
-    member 2019–present<!--term ends end-2021-->
-    Student Representative
+    member Student Representative 2019–present<!--term ends end-2021-->
   - UCT Dept. of Biological Sciences Postgraduate Committee member
     October 2018–present
   - UCT Departmental Representative for the Dept. of Biological Sciences
@@ -183,8 +176,8 @@ for a career in research, academia and teaching.
     for the soils of the GCFR June 2016–present
       - with L.M. Wootton
       - Part of the *Biodiversity and Environmental Change in the Cape
-        Floristic Region*
-        research programme at the Dept. of Biological Sciences
+        Floristic Region* research programme at the Dept. of Biological
+        Sciences
       - Supervisor: Prof M.D. Cramer (UCT)
   - Field assitant for monitoring *Mimetes* spp. & *Leucospermumn* spp.
     (Proteaceae) January–February 2017
@@ -205,32 +198,30 @@ for a career in research, academia and teaching.
 
   - Presenter at the 45<sup>th</sup> Annual SAAB, AMA and SASSB Joint
     Congress 9–11 January 2019
-      - First oral presentation:
+      - First oral presentation: 9 January 2019  
         *Environmental turnover predicts plant species richness &
-        turnover*,
-        on my BSc Hons dissertation work and publication in prep. 9
-        January 2019
-      - Second oral presentation:
+        turnover*  
+        Based on my BSc Hons dissertation work and publication in prep.
+      - Second oral presentation: 11 January 2019  
         *Larger genome size constrains water-use efficiency and
-        phenology in Cape Schoenoid sedges*,
-        on my MSc work 11 January 2019
+        phenology in Cape Schoenoid sedges*  
+        Based on my MSc work
   - Presenter at *UCT BioDay* 30 November 2018
-      - I presented my preliminary results for my MSc
-        on the role of genome size in shaping Cape Schoenoid sedge
-        physiology
+      - I presented my preliminary results for my MSc on the role of
+        genome size in shaping Cape Schoenoid sedge physiology
   - Attendee at [*satRday Cape Town*](https://capetown2018.satrdays.org)
     17 March 2018
   - Presenter at workshop *Biodiversity and Environmental Change in the
     Cape Floristic Region* 24 January 2017
       - with L.M. Wootton
-      - We presented a progress report on “Development of soil atlas for
-        the Greater Cape Floristic Region”
+      - We presented a progress report on *Development of soil atlas for
+        the Greater Cape Floristic Region*
       - Organiser: Associate Prof L. Gillson (UCT)
   - Attendee at workshop *Spatial Point Process Modelling for Ecological
-    Survey Data with “inlabru”* 11–13 January 2017
+    Survey Data  
+    with “inlabru”* 11–13 January 2017
       - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St
-        Andrews University)
-        and Dr F. Bachl (University of Edinburgh)
+        Andrews University) and Dr F. Bachl (University of Edinburgh)
 
 ## Press releases & science communication
 
@@ -252,7 +243,8 @@ for a career in research, academia and teaching.
   - Extended experience with:
       - Apple macOS
       - Microsoft Windows
-      - Microsoft Office
+      - Microsoft Office Word, Excel and Powerpoint
+      - LaTeX, BibTeX
       - R, RStudio, RMarkdown and related packages, “tidyverse” packages
       - Git, GitHub
       - Statistical modelling, GIS (in R)
@@ -271,7 +263,8 @@ for a career in research, academia and teaching.
   - UCT Wine & Culture Society member 2016–present
   - UCT Birding Club member 2016–2017
   - Selected to give student feedback for curriculum-restructuring
-    within the Dept. of Biological Sciences August 2016
+    August 2016
+      - within the Dept. of Biological Sciences
       - Related to roles as Class/Dept. Representative—see above
       - Selected by: Associate Prof A.G. West (UCT)
   - Selected to give student feedback for *Biology: How Life Works* (2nd
@@ -304,3 +297,11 @@ for a career in research, academia and teaching.
   - Prof T.A.J. Hedderson <terry.hedderson@uct.ac.za>, +27 21 650 4037
       - Dept. of Biological Sciences, UCT
       - Bolus Herbarium, UCT
+
+<!-- end list -->
+
+1.  Awarded but not reimbursed due to award of DST-NRF Innovation
+    Masters Scholarship
+
+2.  Awarded but not reimbursed due to award of DST-NRF Innovation
+    Honours Scholarship

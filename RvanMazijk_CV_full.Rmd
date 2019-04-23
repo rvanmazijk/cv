@@ -3,20 +3,23 @@ title: "Ruan van Mazijk, _Curriculum vitae_"
 subtitle: |
   <ruanvmazijk@gmail.com>,
   [rvanmazijk.github.io](https://rvanmazijk.github.io),
-  +27 72 516 7570
+  (+27) 72 516 7570
+output:
+  pdf_document:
+    latex_engine: xelatex
 mainfont: Avenir
-geometry: null
+geometry: a4paper, margin=0.75in
 linkcolor: blue
 urlcolor: blue
 ---
 
-\hrule
+\hrulefill
 
-MSc candidate in Biological Sciences at the [Dept. of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa
+MSc candidate in Biological Sciences at the [Department of Biological Sciences](http://www.biologicalsciences.uct.ac.za/), [University of Cape Town](http://www.uct.ac.za/), South Africa
 
-![](logos/UCT.png){ width=48 } ![](logos/BIO.png){ width=48 } ![](logos/SASSB.png){ width=48 }
+I have broad interests in plant and animal phylogenetics systematics, macroecology, community ecology, plant ecophysiology, climate change biology, statistical ecology and computational and model-based methods. Striving for a career in research, academia and teaching.
 
-I have broad interests in plant and animal phylogenetics systematics, community ecology, plant ecophysiology, climate change biology, statistical ecology, and computational and model-based methods. Striving for a career in research, academia and teaching.
+\center
 
 @rvanmazijk on ![](logos/Twitter.png){ width=12 } [Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png){ width=12 } [GitHub](https://github.com/rvanmazijk)
 
@@ -24,18 +27,20 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ![](logos/LinkedIn.png){ width=12 } [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127) ![](logos/ResearchGate-green.jpg){ width=12 } [ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk) ![](logos/Mendeley-red.png){ width=12 } [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
 
-\hfill \hrule
+![](logos/UCT.png){ width=48 } ![](logos/BIO.png){ width=48 } ![](logos/SASSB.png){ width=48 }
+
+\hrulefill
+
+\raggedright
 
 ## Education
 
 - **MSc candidate in Biological Sciences** _Cape Town_ \hfill 2018--present
-    - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology_ 
-      \par _in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
+    - Dissertation title: _Genome size effects on plant hydraulic ecophysiology, habitat and phenology in Cape Schoenoid sedges (Cyperaceae: Schoeneae)_
     - Principle supervisor: Associate Prof A.M. Muasya
     - Co-supervisors: Associate Prof G.A. Verboom and Associate Prof A.G. West
 - **BSc Hons in Biological Sciences** _Cape Town_ \hfill 2017
-    - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales_ 
-      \par _in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
+    - Dissertation title: _Relating vascular plant species richness and environmental heterogeneity across spatial scales in the Greater Cape Floristic Region and the Southwest Australia Floristic Region_
     - Supervisors: Prof M.D. Cramer and Associate Prof G.A. Verboom
     - Graduated with distinction
 - **BSc in Ecology & Evolution, Applied Biology** _Cape Town_ \hfill 2016
@@ -51,18 +56,14 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ### Peer-reviewed articles
 
+<!-- - Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae). -->
 - Cramer, M.D., Wootton, L.M., **van Mazijk, R.** and Verboom, G.A. (In review). Improved spatial soil data confirms dependence of vegetation distribution on edaphic properties in the Cape biodiversity hotspot. _Diversity & Distributions_.
 - **Van Mazijk, R.**, Cramer, M.D. and Verboom, G.A. (In prep.). The role of environmental heterogeneity in determining plant species richness in the Greater Cape Floristic Region & the Southwest Australia Floristic Region. To submit to _Journal of Biogeography_.
 - **Van Mazijk, R.**, Smyth, L.K., Weideman, E.A. and West, A.G. (2018). Isotopic tracing of stormwater in the urban Liesbeek River. _Water SA_, 44(4):674--679. DOI: [10.4314/wsa.v44i4.16](http://dx.doi.org/10.4314/wsa.v44i4.16).
 
-<!--
-- Shaik, Z., **van Mazijk**, R., Bergh, N.G., Verboom, G.A. and Cron, G. (In prep.). Contingent evolution of sexual systems and life histories in _Helichrysum_ (Asteraceae: Gnaphaleae).
--->
-
 ## Professional affiliations
 
-- Southern African Society for Systematic Biology (SASSB) council member \hfill 2019--present<!--term ends end-2021-->
-    \par Student Representative
+- Southern African Society for Systematic Biology (SASSB) council member Student Representative \hfill 2019--present <!-- term ends end-2021 -->
 - SASSB student member \hfill 2018--present
 - South African Association of Botanists (SAAB) student member \hfill 2017--present
 - Golden Key International Honour Society member \hfill 2015--present
@@ -71,31 +72,27 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ### Travel grants
 
-- UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, African Mycological Assocation (AMA)
-    \par and SASSB Joint Congress, 2019 (R3,819) \hfill 2018
+- UCT Conference Travel Grant to attend the 45^th^ Annual SAAB, African Mycological Assocation (AMA) and SASSB Joint Congress, 2019 (R3,819) \hfill 2018
 
 ### Scholarships & bursaries
 
-- Department of Science and Technology (DST) and National Research Foundation (NRF)
-    \par Innovation Masters Scholarship (R90,000) \hfill 2019
-- UCT Masters Research Scholarship (R30,000) \hfill 2019
-    \par Awarded but not reimbursed due to award of DST-NRF Innovation Masters Scholarship 
+- Department of Science and Technology (DST) and National Research Foundation (NRF) Innovation Masters Scholarship (R90,000) \hfill 2019
+- UCT Masters Research Scholarship^[Awarded but not reimbursed due to award of DST-NRF Innovation Masters Scholarship] (R30,000) \hfill 2019
 - UCT Bursary Top Ups (R6,000 total) \hfill 2019
-    \par from Associate Prof A.M. Muasya, Associate Prof A.G. West and Associate Prof G.A. Verboom
+    - From Associate Prof A.M. Muasya, Associate Prof A.G. West and Associate Prof G.A. Verboom
 - SAAB MSc Student Bursary (inaugural recipient) (R20,000 p.a.) \hfill 2018, 2019
-- UCT Dept. of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
+- UCT Department of Biological Sciences Dorothy Cameron Scholarship (R20,000) \hfill 2018
 - UCT Once-Off Top Up Award (R5,520) \hfill 2018
 - UCT Masters Research Scholarship (R30,000) \hfill 2018
 - DST-NRF Innovation Honours Scholarship (R60,000) \hfill 2017
 - SAAB Honours Scholarship (R10,000) \hfill 2017
-- UCT Council Honours Merit Scholarship (R20,000) \hfill 2017
-    \par Awarded but not reimbursed due to award of DST-NRF Innovation Honours Scholarship 
+- UCT Council Honours Merit Scholarship^[Awarded but not reimbursed due to award of DST-NRF Innovation Honours Scholarship] (R20,000) \hfill 2017
 - UCT Science Faculty Scholarship (R15,000 p.a.) \hfill 2015, 2016
 
 ### Awards & honours
 
 - SASSB Best MSc Presentation, at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill January 2019
-    \par (three-way tie, shared with with Zaynab Shaik (UCT/SANBI) and Devon Main (UJ))
+    - Three-way tie, shared with with Zaynab Shaik (UCT/SANBI) and Devon Main (UJ))
 - UCT Dean's Merit List \hfill 2014--2016
 - UCT Dick & Dorothy Borcherds Prize for the highest standard in 2^nd^ year biology (R1,000) \hfill 2015
 - Top of the class at UCT for:
@@ -107,8 +104,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 
 ## Leadership experience
 
-- Southern African Society for Systematic Biology (SASSB) council member \hfill 2019--present<!--term ends end-2021-->
-    \par Student Representative
+- Southern African Society for Systematic Biology (SASSB) council member Student Representative \hfill 2019--present<!--term ends end-2021-->
 - UCT Dept. of Biological Sciences Postgraduate Committee member \hfill October 2018--present
 - UCT Departmental Representative for the Dept. of Biological Sciences \hfill 2016.
 - Class Representative at UCT for:
@@ -141,8 +137,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
     - Supervisor: Dr T.L. Elliott (Université De Montréal) and Associate Prof A.M. Muasya (UCT)
 - Data processing assistant for assessing the current available data for the soils of the GCFR \hfill June 2016--present
     - with L.M. Wootton
-    - Part of the _Biodiversity and Environmental Change in the Cape Floristic Region_ 
-    \par research programme at the Dept. of Biological Sciences
+    - Part of the _Biodiversity and Environmental Change in the Cape Floristic Region_ research programme at the Dept. of Biological Sciences
     - Supervisor: Prof M.D. Cramer (UCT)
 - Field assitant for monitoring _Mimetes_ spp. & _Leucospermumn_ spp. (Proteaceae) \hfill January--February 2017
     - Populations were on the Cape Peninsula
@@ -157,23 +152,22 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 ## Workshop & conference attendance
 
 - Presenter at the 45^th^ Annual SAAB, AMA and SASSB Joint Congress \hfill 9--11 January 2019
-    - First oral presentation:
-        \par _Environmental turnover predicts plant species richness & turnover_,
-        \par on my BSc Hons dissertation work and publication in prep. \hfill 9 January 2019 
-    - Second oral presentation:
-        \par _Larger genome size constrains water-use efficiency and phenology in Cape Schoenoid sedges_,
-        \par on my MSc work \hfill 11 January 2019 
+    - First oral presentation: \hfill 9 January 2019  \
+      _Environmental turnover predicts plant species richness & turnover_ \
+      Based on my BSc Hons dissertation work and publication in prep.
+    - Second oral presentation: \hfill 11 January 2019 \
+      _Larger genome size constrains water-use efficiency and phenology in Cape Schoenoid sedges_ \
+      Based on my MSc work
 - Presenter at _UCT BioDay_ \hfill 30 November 2018
-    - I presented my preliminary results for my MSc
-        \par on the role of genome size in shaping Cape Schoenoid sedge physiology
+    - I presented my preliminary results for my MSc on the role of genome size in shaping Cape Schoenoid sedge physiology
 - Attendee at [_satRday Cape Town_](https://capetown2018.satrdays.org) \hfill 17 March 2018
 - Presenter at workshop _Biodiversity and Environmental Change in the Cape Floristic Region_ \hfill 24 January 2017
     - with L.M. Wootton
-    - We presented a progress report on "Development of soil atlas for the Greater Cape Floristic Region"
+    - We presented a progress report on _Development of soil atlas for the Greater Cape Floristic Region_
     - Organiser: Associate Prof L. Gillson (UCT)
-- Attendee at workshop _Spatial Point Process Modelling for Ecological Survey Data with "inlabru"_ \hfill 11--13 January 2017
-    - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University)
-        \par and Dr F. Bachl (University of Edinburgh)
+- Attendee at workshop _Spatial Point Process Modelling for Ecological Survey Data \
+  with "inlabru"_ \hfill 11--13 January 2017
+    - Instructors: Prof D.L. Borchers, Dr J.B. Illian (CREEM, St Andrews University) and Dr F. Bachl (University of Edinburgh)
 
 ## Press releases & science communication
 
@@ -188,7 +182,8 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - Extended experience with:
     - Apple macOS
     - Microsoft Windows
-    - Microsoft Office
+    - Microsoft Office Word, Excel and Powerpoint
+    - LaTeX, BibTeX
     - R, RStudio, RMarkdown and related packages, "tidyverse" packages
     - Git, GitHub
     - Statistical modelling, GIS (in R)
@@ -204,7 +199,8 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - Botanical Society of South Africa (BotSoc) member \hfill 2017--present
 - UCT Wine & Culture Society member \hfill 2016--present
 - UCT Birding Club member \hfill 2016--2017
-- Selected to give student feedback for curriculum-restructuring within the Dept. of Biological Sciences \hfill August 2016
+- Selected to give student feedback for curriculum-restructuring \hfill August 2016
+    - within the Dept. of Biological Sciences
     - Related to roles as Class/Dept. Representative---see above
     - Selected by: Associate Prof A.G. West (UCT)
 - Selected to give student feedback for _Biology: How Life Works_ (2nd edition) \hfill May 2016
@@ -215,7 +211,7 @@ I have broad interests in plant and animal phylogenetics systematics, community 
 - UCT Biological Society member \hfill 2015
 - Two Oceans Aquarium _Young Biologist_ Volunteer \hfill 2013--2014
 
-\hfill \hrule
+\hrulefill
 
 ## References
 
@@ -236,4 +232,4 @@ I have broad interests in plant and animal phylogenetics systematics, community 
     - Dept. of Biological Sciences, UCT
     - Bolus Herbarium, UCT
 
-\hfill \hrule
+\hrulefill
