@@ -1,10 +1,17 @@
 \usepackage[a4paper, margin=1cm]{geometry}
-\usepackage{fontspec}
-\usepackage{multicol}
-\usepackage{graphicx}
-\usepackage{enumitem}  % for \begin{itemize}[noitemsep, nolistsep] etc.
+\usepackage{
+  fontspec,
+  multicol,
+  graphicx,
+  enumitem,  % for \begin{itemize}[noitemsep, nolistsep] etc.
+  hanging,
+  tabularx,
+  dblfnote
+}
 
 \setmainfont{Avenir}
+\setlength{\parskip}{0.25em}
 
 \pagestyle{empty}
 \raggedright
+\DFNalwaysdouble
