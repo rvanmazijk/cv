@@ -5,7 +5,7 @@ subtitle: |
   [rvanmazijk.github.io](https://rvanmazijk.github.io),
   +27 72 516 7570
 mainfont: Avenir
-geometry: margin=1.5cm
+geometry: null
 linkcolor: blue
 urlcolor: blue
 ---
