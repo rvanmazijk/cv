@@ -19,6 +19,7 @@ MSc candidate in Biological Sciences at the [Department of Biological Sciences](
 
 I have broad interests in plant and animal phylogenetics systematics, macroecology, community ecology, plant ecophysiology, climate change biology, statistical ecology and computational and model-based methods. Striving for a career in research, academia and teaching.
 
+<!--
 \center
 
 @rvanmazijk on ![](logos/Twitter.png){ width=12 } [Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png){ width=12 } [GitHub](https://github.com/rvanmazijk)
@@ -28,6 +29,7 @@ I have broad interests in plant and animal phylogenetics systematics, macroecolo
 ![](logos/LinkedIn.png){ width=12 } [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127) ![](logos/ResearchGate-green.jpg){ width=12 } [ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk) ![](logos/Mendeley-red.png){ width=12 } [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
 
 ![](logos/UCT.png){ width=48 } ![](logos/BIO.png){ width=48 } ![](logos/SASSB.png){ width=48 }
+-->
 
 \hrulefill
 
@@ -120,7 +122,8 @@ I have broad interests in plant and animal phylogenetics systematics, macroecolo
     - Lecturer: Associate Prof G.A. Verboom (UCT)
 - Tutor for second year study design and data analysis for scientists \hfill 2017--present
     - Convenor: Associate Prof R. Altwegg (UCT)
-- Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & data analysis_ \hfill 18--20 July 2018
+- Assistant tutor for short course _SEEC-ACCESS Introduction to statistical modelling & \
+  data analysis_ \hfill 18--20 July 2018
     - Organiser: Associate Prof R. Altwegg (UCT)
 - Assistant tutor first year R practicals \hfill 2016--2018
     - Convenor: Associate Prof R. Altwegg (UCT)

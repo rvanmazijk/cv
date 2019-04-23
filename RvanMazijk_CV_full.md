@@ -10,20 +10,17 @@ macroecology, community ecology, plant ecophysiology, climate change
 biology, statistical ecology and computational and model-based methods.
 Striving for a career in research, academia and teaching.
 
-@rvanmazijk on ![](logos/Twitter.png)
-[Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png)
-[GitHub](https://github.com/rvanmazijk)
+<!--
+\center
 
-![](logos/ORCID.png) <https://orcid.org/0000-0003-2659-6909>
+@rvanmazijk on ![](logos/Twitter.png){ width=12 } [Twitter](https://twitter.com/rvanmazijk) and ![](logos/GitHub.png){ width=12 } [GitHub](https://github.com/rvanmazijk)
 
-![](logos/LinkedIn.png)
-[LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127)
-![](logos/ResearchGate-green.jpg)
-[ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk)
-![](logos/Mendeley-red.png)
-[Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
+![](logos/ORCID.png){ width=12 } <https://orcid.org/0000-0003-2659-6909>
 
-![](logos/UCT.png) ![](logos/BIO.png) ![](logos/SASSB.png)
+![](logos/LinkedIn.png){ width=12 } [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127) ![](logos/ResearchGate-green.jpg){ width=12 } [ResearchGate](https://www.researchgate.net/profile/Ruan_Van_Mazijk) ![](logos/Mendeley-red.png){ width=12 } [Mendeley](https://www.mendeley.com/profiles/ruan-van-mazijk)
+
+![](logos/UCT.png){ width=48 } ![](logos/BIO.png){ width=48 } ![](logos/SASSB.png){ width=48 }
+-->
 
 ## Education
 
@@ -152,7 +149,8 @@ Flora*.
     2017–present
       - Convenor: Associate Prof R. Altwegg (UCT)
   - Assistant tutor for short course *SEEC-ACCESS Introduction to
-    statistical modelling & data analysis* 18–20 July 2018
+    statistical modelling &  
+    data analysis* 18–20 July 2018
       - Organiser: Associate Prof R. Altwegg (UCT)
   - Assistant tutor first year R practicals 2016–2018
       - Convenor: Associate Prof R. Altwegg (UCT)
