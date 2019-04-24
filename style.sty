@@ -1,4 +1,4 @@
-\usepackage[a4paper, margin=1cm]{geometry}
+\usepackage[a4paper, margin=1.25cm]{geometry}
 \usepackage{
   fontspec,
   multicol,
@@ -14,4 +14,10 @@
 
 \pagestyle{empty}
 \raggedright
-\DFNalwaysdouble
+
+\DFNalwaysdouble  % 2-columns of footnotes
+\renewcommand{\footnoterule}{% full-width footnote rule 
+  \kern -3pt
+  \hrulefill \break
+  \kern 2pt
+}
