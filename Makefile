@@ -1,13 +1,11 @@
-all: 1page full
+ETC = $(wildcard etc/*.{sty,tex})
 
-1page: RvanMazijk_CV_1page.pdf
+all: RvanMazijk_CV_1p.pdf RvanMazijk_CV_full.pdf
 
-full: RvanMazijk_CV_full2.pdf
-
-RvanMazijk_CV_1page.pdf: RvanMazijk_CV_1page.tex style.sty
+RvanMazijk_CV_1page.pdf: RvanMazijk_CV_1p.tex $(ETC)
 	xelatex $<
 
-RvanMazijk_CV_full2.pdf: RvanMazijk_CV_full2.tex style.sty
+RvanMazijk_CV_full2.pdf: RvanMazijk_CV_full2.tex $(ETC)
 	xelatex $<
 
 clean:
