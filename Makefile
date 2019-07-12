@@ -1,4 +1,4 @@
-ETC = $(wildcard etc/*.{sty,tex})
+ETC = etc/education.tex etc/header.tex etc/publications.tex etc/style.sty 
 
 all: RvanMazijk_CV_1p.pdf RvanMazijk_CV_full.pdf
 
