@@ -9,4 +9,4 @@ RvanMazijk_CV_full.pdf: RvanMazijk_CV_full.tex $(ETC)
 	xelatex $<
 
 clean:
-	rm *.aux *.log
+	rm *.aux *.log *.out
