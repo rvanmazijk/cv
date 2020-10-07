@@ -55,8 +55,22 @@ geometry : a4paper, margin=1in
     - In Elliott & Muasya (In prep.)
     - Elliott & van Mazijk TE2016_356 (BOL!)
     - Elliott & van Mazijk TE2016_360 (BOL!)
-
-<!-- TODO: cont. w/ Elliott & Muasya (In prep.) once published -->
+- _Schoenus selinae_ T.L.Elliott, Muthaphuli & Muasya, _sp. nov._
+    - In Elliott & Muasya (In prep.)
+    - Elliott & van Mazijk TE2016_405 (BOL!)
+- _Schoenus gracillimus_ T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
+    - In Elliott & Muasya (In prep.)
+    - Elliott, Muasya & van Mazijk TE2016_344 (BOL!)
+    - Elliott, Muasya & van Mazijk TE2016_345 (BOL!)
+    - Elliott, Muasya & van Mazijk TE2016_346 (BOL!)
+    - Elliott & van Mazijk TE2016_404 (BOL!)
+- _Schoenus lucidus_ (C.B.Clarke) T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
+    - In Elliott & Muasya (In prep.)
+    - Elliott, Muasya & van Mazijk TE2016_342 (BOL!)
+    - Elliott, Muasya & van Mazijk TE2016_343 (BOL!)
+- _Schoenus neovillosus_ T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
+    - In Elliott & Muasya (In prep.)
+    - Elliott & van Mazijk TE2016_359 (BOL!)
 
 # Acknowledgments of me
 
