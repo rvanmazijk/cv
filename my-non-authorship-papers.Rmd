@@ -13,69 +13,71 @@ geometry : a4paper, margin=1in
 ## Type specimens
 
 - _Schoenus purpurascens_ T.L.Elliott & Muasya, _sp. nov._
-    - In Elliott et al. (2019)
+    - In Elliott, Barrett & Muasya (2019)
     - Elliott, Muasya & van Mazijk TE2016_349 (holotype BOL!; isotypes MT!, NBG!).
 
 - _Schoenus bracteosus_ T.L.Elliott & Muasya, _sp. nov._
-    - In Elliott & Muasya (In press)
+    - In Elliott & Muasya (2019)
     - Elliott & van Mazijk TE2016_400 (holotype BOL!; isotypes MT!, NBG!)
 
 ## Additionally examined specimens
 
 - _Schoenus albovaginatus_ T.L.Elliott & Muasya, _nom. et stat. nov._
-    - In Elliott & Muasya (In press)
+    - In Elliott & Muasya (2019)
     - Van Mazijk & Verboom RVM 2 (BOL!)
 
 - _Schoenus compactus_ (Levyns) T.L.Elliott & Muasya, S. African J. Bot. 112: 359 (2017)
-    - In Elliott & Muasya (In rev.)
+    - In Elliott & Muasya (2020a)
     - Elliott & van Mazijk TE2016_357 (BOL!)
 
 - _Schoenus crassus_ (Levyns) T.L.Elliott & Muasya, S. African J. Bot. 112: 359 (2017)
-    - In Elliott & Muasya (In rev.)
+    - In Elliott & Muasya (2020a)
     - Elliott & van Mazijk TE2016_401 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_354 (BOL!)
 
 - _Schoenus cuspidatus_ Rottb., Desc. Icon. Rar. Pl.: 66 (1773)
-    - In Elliott & Muasya (In rev.)
+    - In Elliott & Muasya (2020a)
     - Elliott & van Mazijk TE2016_363 (BOL!)
     - Elliott & van Mazijk TE2016_396 (BOL!)
     - Elliott & van Mazijk TE2016_397 (BOL!)
 
 - _Schoenus dregeanus_ (Boeckeler) Kuntze, Revis. Gen. Pl. 2: 756 (1891)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott, Muasya & van Mazijk TE2016_347 (BOL!)
 
 - _Schoenus complanatus_ (Levyns) T.L.Elliott & Muasya, S. African J. Bot. 112: 359--360 (2017)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott, Muasya & van Mazijk TE2016_339 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_340 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_341 (BOL!)
 
 - _Schoenus quadrangularis_ Boeckeler, Linnaea. 38: 274-275 (1874)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott & van Mazijk TE2016_356 (BOL!)
     - Elliott & van Mazijk TE2016_360 (BOL!)
 - _Schoenus selinae_ T.L.Elliott, Muthaphuli & Muasya, _sp. nov._
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott & van Mazijk TE2016_405 (BOL!)
 - _Schoenus gracillimus_ T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott, Muasya & van Mazijk TE2016_344 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_345 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_346 (BOL!)
     - Elliott & van Mazijk TE2016_404 (BOL!)
 - _Schoenus lucidus_ (C.B.Clarke) T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott, Muasya & van Mazijk TE2016_342 (BOL!)
     - Elliott, Muasya & van Mazijk TE2016_343 (BOL!)
 - _Schoenus neovillosus_ T.L.Elliott & Muasya, S. African J. Bot. 112: 360 (2017)
-    - In Elliott & Muasya (In prep.)
+    - In Elliott & Muasya (2020b)
     - Elliott & van Mazijk TE2016_359 (BOL!)
 
 # References
 
-Elliott et al. (2019). A taxonomic revision of _Schoenus cuspidatus_ and allies (Cyperaceae, tribe Schoeneae)---Part 1. _S. Afr. J. Botany_ 121:519--535
+Elliott, Barrett & Muasya (2019). A taxonomic revision of _Schoenus cuspidatus_ and allies (Cyperaceae, tribe Schoeneae)---Part 1. _S. Afr. J. Botany_ 121: 519--535
 
-Elliott & Muasya (In press). Three new species and a new combination among Southern African _Schoenus_ (Cyperaceae, tribe Schoeneae). _Phytotaxa_
+Elliott & Muasya (2019). Three new species and a new combination among Southern African _Schoenus_ (Cyperaceae, tribe Schoeneae). _Phytotaxa_ 401(4): 267--275
 
-<!-- TODO: add Elliott & Muasya (In rev.) and (In prep.) -->
+Elliott & Muasya (2020a). A taxonomic revision of _Schoenus cuspidatus_ and allies (Cyperaceae, tribe Schoeneae)---Part 2. _S. Afr. J. Botany_ 130: 327--347
+
+Elliott & Muasya (2020b). A taxonomic revision of the _Epischoenus_ group of _Schoenus_ (Cyperaceae, tribe Schoeneae). _S. Afr. J. Botany_ 135: 296--316
