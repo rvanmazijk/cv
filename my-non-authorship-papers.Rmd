@@ -72,6 +72,10 @@ geometry : a4paper, margin=1in
     - In Elliott & Muasya (2020b)
     - Elliott & van Mazijk TE2016_359 (BOL!)
 
+# Acknowledgments of me
+
+<!-- TODO: add acknowledgment from Eleanor's paper ex. her Hons -->
+
 # References
 
 Elliott, Barrett & Muasya (2019). A taxonomic revision of _Schoenus cuspidatus_ and allies (Cyperaceae, tribe Schoeneae)---Part 1. _S. Afr. J. Botany_ 121: 519--535
