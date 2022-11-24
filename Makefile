@@ -14,4 +14,4 @@ my-non-authorship-papers.pdf: my-non-authorship-papers.Rmd
 	render('$<')"
 
 clean:
-	rm *.aux *.log *.out
+	rm *.aux *.log *.out *.xdv *.gz *.fls *.fdb_latexmk
