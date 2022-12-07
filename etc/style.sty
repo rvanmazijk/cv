@@ -1,4 +1,4 @@
-\usepackage[a4paper, margin=1.25cm]{geometry}
+\usepackage[a4paper, margin=1.25cm, top=0.25cm]{geometry}
 \usepackage{
   fontspec,
   multicol,
@@ -6,11 +6,13 @@
   enumitem,  % for \begin{itemize}[noitemsep, nolistsep] etc.
   hanging,
   tabularx,
-  dblfnote
+  dblfnote   % also contained in package 'yafoot' (install that if need be)
 }
 \usepackage[hidelinks]{hyperref}
 
 \setmainfont{Avenir}
+\setmonofont{Courier}
+
 \setlength{\parskip}{0.33em}
 
 \pagestyle{empty}

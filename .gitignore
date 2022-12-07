@@ -4,3 +4,10 @@
 .Ruserdata
 *.DS_Store
 *.html
+*.aux
+*.log
+*.out
+*.xdv
+*.gz
+*.fls
+*.fdb_latexmk
