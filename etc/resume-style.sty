@@ -1,0 +1,29 @@
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage{
+  fontspec,
+  multicol,
+  graphicx,
+  enumitem,  % for \begin{itemize}[noitemsep, nolistsep] etc.
+  hanging,
+  tabularx,
+  dblfnote   % also contained in package 'yafoot' (install that if need be)
+}
+\usepackage[hidelinks]{hyperref}
+
+\setmainfont{Avenir}
+\setmonofont{Courier}
+
+\setlength{\parskip}{0.33em}
+
+\pagestyle{empty}
+\raggedright
+
+\DFNalwaysdouble  % 2-columns of footnotes
+\renewcommand{\footnoterule}{% full-width footnote rule 
+  \kern -3pt
+  \hrulefill \break
+  \kern 2pt
+}
+\newcommand{\myfootnotesize}{\footnotesize}
+\renewcommand{\footnotesize}{\scriptsize}
+

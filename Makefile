@@ -1,6 +1,9 @@
 ETC = etc/education.tex etc/header.tex etc/publications.tex etc/style.sty 
 
-all: RvanMazijk_CV_1p.pdf RvanMazijk_CV_full.pdf my-non-authorship-papers.pdf
+all: RvanMazijk_resume.pdf RvanMazijk_CV_1p.pdf RvanMazijk_CV_full.pdf my-non-authorship-papers.pdf
+
+RvanMazijk_resume.pdf: RvanMazijk_resume.tex etc/resume-header.tex etc/resume-style.sty
+	xelatex $<
 
 RvanMazijk_CV_1p.pdf: RvanMazijk_CV_1p.tex $(ETC)
 	xelatex $<
